@@ -1,0 +1,2605 @@
+[Tue Jun 16 11:52:14 2026] ======== PROGRAM START ========
+[Tue Jun 16 11:52:15 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 11:52:15 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 11:52:15 2026] Switched to fullscreen mode
+[Tue Jun 16 11:52:15 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 11:52:35 2026] ======== PROGRAM START ========
+[Tue Jun 16 11:52:35 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 11:52:35 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 11:52:35 2026] Switched to fullscreen mode
+[Tue Jun 16 11:52:35 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:06:14 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:06:14 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:06:15 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:06:15 2026] Switched to fullscreen mode
+[Tue Jun 16 12:06:15 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:14:53 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:14:53 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:14:53 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:14:53 2026] Switched to fullscreen mode
+[Tue Jun 16 12:14:53 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:14:53 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 12:15:01 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:15:01 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:15:02 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:15:02 2026] Switched to fullscreen mode
+[Tue Jun 16 12:15:02 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:15:02 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 12:31:27 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:31:27 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:31:27 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:31:27 2026] Switched to fullscreen mode
+[Tue Jun 16 12:31:27 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:31:27 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 12:31:27 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 12:33:58 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:33:58 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:33:59 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:33:59 2026] Switched to fullscreen mode
+[Tue Jun 16 12:33:59 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:33:59 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 12:33:59 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 12:37:38 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:37:39 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:37:39 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:37:39 2026] Switched to fullscreen mode
+[Tue Jun 16 12:37:39 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:37:39 2026] ERROR: Vertex shader compilation failed
+[Tue Jun 16 12:37:39 2026] ERROR: Fragment shader compilation failed
+[Tue Jun 16 12:37:39 2026] ERROR: Shader program linking failed
+[Tue Jun 16 12:37:39 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 12:37:39 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 12:43:05 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:43:05 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:43:05 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:43:05 2026] Switched to fullscreen mode
+[Tue Jun 16 12:43:05 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:43:05 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 12:43:05 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 12:43:32 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:43:32 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:43:33 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:43:33 2026] Switched to fullscreen mode
+[Tue Jun 16 12:43:33 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:43:33 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 12:43:33 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 12:43:47 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:43:47 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:43:47 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:43:47 2026] Switched to fullscreen mode
+[Tue Jun 16 12:43:47 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:43:47 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 12:43:47 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 12:46:23 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:46:23 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:46:24 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:46:24 2026] Switched to fullscreen mode
+[Tue Jun 16 12:46:24 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:46:24 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 12:46:24 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 12:46:58 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:46:58 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:46:58 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:46:58 2026] Switched to fullscreen mode
+[Tue Jun 16 12:46:58 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:46:58 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 12:46:58 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 12:49:00 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:49:00 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:49:00 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:49:00 2026] Switched to fullscreen mode
+[Tue Jun 16 12:49:00 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:49:00 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 12:49:00 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 12:49:37 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:49:37 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:49:37 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:49:37 2026] Switched to fullscreen mode
+[Tue Jun 16 12:49:37 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:49:37 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 12:49:37 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 12:53:40 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:53:41 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:53:41 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:53:41 2026] Switched to fullscreen mode
+[Tue Jun 16 12:53:41 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:53:41 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 12:53:41 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 12:54:29 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:54:29 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:54:29 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:54:29 2026] Switched to fullscreen mode
+[Tue Jun 16 12:54:29 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:54:29 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 12:54:29 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 12:55:16 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:55:16 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:55:17 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:55:17 2026] Switched to fullscreen mode
+[Tue Jun 16 12:55:17 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:55:17 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 12:55:17 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 12:55:47 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:55:47 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:55:47 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:55:47 2026] Switched to fullscreen mode
+[Tue Jun 16 12:55:47 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:55:47 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 12:55:47 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 12:55:48 2026] FPS: 0
+[Tue Jun 16 12:55:49 2026] FPS: 0
+[Tue Jun 16 12:55:50 2026] FPS: 0
+[Tue Jun 16 12:55:51 2026] FPS: 0
+[Tue Jun 16 12:55:52 2026] FPS: 0
+[Tue Jun 16 12:55:53 2026] FPS: 0
+[Tue Jun 16 12:55:54 2026] FPS: 0
+[Tue Jun 16 12:56:10 2026] ======== PROGRAM START ========
+[Tue Jun 16 12:56:10 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 12:56:10 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 12:56:10 2026] Switched to fullscreen mode
+[Tue Jun 16 12:56:10 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 12:56:10 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 12:56:10 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 12:56:11 2026] FPS: 58
+[Tue Jun 16 12:56:12 2026] FPS: 61
+[Tue Jun 16 12:56:13 2026] FPS: 61
+[Tue Jun 16 12:56:14 2026] FPS: 61
+[Tue Jun 16 12:56:15 2026] FPS: 60
+[Tue Jun 16 13:06:30 2026] ======== PROGRAM START ========
+[Tue Jun 16 13:06:30 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 13:06:30 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 13:06:30 2026] Switched to fullscreen mode
+[Tue Jun 16 13:06:30 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 13:06:30 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 13:06:30 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 13:06:31 2026] FPS: 58
+[Tue Jun 16 13:06:32 2026] FPS: 60
+[Tue Jun 16 13:06:33 2026] FPS: 61
+[Tue Jun 16 13:06:34 2026] FPS: 61
+[Tue Jun 16 13:06:35 2026] FPS: 60
+[Tue Jun 16 13:06:36 2026] FPS: 60
+[Tue Jun 16 13:06:37 2026] FPS: 61
+[Tue Jun 16 13:06:38 2026] FPS: 61
+[Tue Jun 16 13:06:39 2026] FPS: 61
+[Tue Jun 16 13:06:40 2026] FPS: 60
+[Tue Jun 16 13:06:41 2026] FPS: 61
+[Tue Jun 16 13:06:42 2026] FPS: 61
+[Tue Jun 16 13:06:43 2026] FPS: 61
+[Tue Jun 16 13:06:44 2026] FPS: 61
+[Tue Jun 16 13:06:45 2026] FPS: 61
+[Tue Jun 16 13:06:46 2026] FPS: 60
+[Tue Jun 16 13:06:47 2026] FPS: 60
+[Tue Jun 16 13:06:48 2026] FPS: 61
+[Tue Jun 16 13:06:49 2026] FPS: 60
+[Tue Jun 16 13:21:07 2026] ======== PROGRAM START ========
+[Tue Jun 16 13:21:08 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 13:21:08 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 13:21:08 2026] Switched to fullscreen mode
+[Tue Jun 16 13:21:08 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 13:21:08 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 13:21:08 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 13:21:09 2026] FPS: 12
+[Tue Jun 16 13:21:10 2026] FPS: 13
+[Tue Jun 16 13:21:11 2026] FPS: 13
+[Tue Jun 16 13:21:12 2026] FPS: 13
+[Tue Jun 16 13:21:13 2026] FPS: 13
+[Tue Jun 16 13:21:14 2026] FPS: 13
+[Tue Jun 16 13:21:15 2026] FPS: 13
+[Tue Jun 16 13:21:16 2026] FPS: 12
+[Tue Jun 16 13:21:17 2026] FPS: 13
+[Tue Jun 16 13:21:18 2026] FPS: 13
+[Tue Jun 16 13:21:19 2026] FPS: 13
+[Tue Jun 16 13:21:20 2026] FPS: 13
+[Tue Jun 16 13:21:21 2026] FPS: 13
+[Tue Jun 16 13:21:22 2026] FPS: 13
+[Tue Jun 16 13:21:23 2026] FPS: 13
+[Tue Jun 16 13:21:24 2026] FPS: 13
+[Tue Jun 16 13:21:25 2026] FPS: 13
+[Tue Jun 16 13:21:26 2026] FPS: 13
+[Tue Jun 16 13:21:27 2026] FPS: 13
+[Tue Jun 16 13:21:28 2026] FPS: 13
+[Tue Jun 16 13:21:29 2026] FPS: 13
+[Tue Jun 16 13:21:30 2026] FPS: 13
+[Tue Jun 16 13:21:31 2026] FPS: 13
+[Tue Jun 16 13:21:32 2026] FPS: 13
+[Tue Jun 16 13:21:33 2026] FPS: 13
+[Tue Jun 16 13:21:34 2026] FPS: 13
+[Tue Jun 16 14:01:38 2026] ======== PROGRAM START ========
+[Tue Jun 16 14:01:38 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 14:01:38 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 14:01:38 2026] Switched to fullscreen mode
+[Tue Jun 16 14:01:38 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 14:01:38 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 14:01:38 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 14:01:39 2026] FPS: 58 | Chunks: 125
+[Tue Jun 16 14:01:40 2026] FPS: 60 | Chunks: 125
+[Tue Jun 16 14:01:47 2026] ======== PROGRAM START ========
+[Tue Jun 16 14:01:47 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 14:01:47 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 14:01:47 2026] Switched to fullscreen mode
+[Tue Jun 16 14:01:47 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 14:01:47 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 14:01:47 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 14:01:48 2026] FPS: 59 | Chunks: 125
+[Tue Jun 16 14:01:49 2026] FPS: 61 | Chunks: 125
+[Tue Jun 16 14:01:50 2026] FPS: 61 | Chunks: 125
+[Tue Jun 16 14:01:51 2026] FPS: 60 | Chunks: 146
+[Tue Jun 16 14:01:52 2026] FPS: 60 | Chunks: 146
+[Tue Jun 16 14:04:40 2026] ======== PROGRAM START ========
+[Tue Jun 16 14:04:40 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 14:04:40 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 14:04:40 2026] Switched to fullscreen mode
+[Tue Jun 16 14:04:40 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 14:04:40 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 14:04:40 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 14:04:41 2026] FPS: 55 | Chunks: 125
+[Tue Jun 16 14:04:42 2026] FPS: 61 | Chunks: 146
+[Tue Jun 16 14:04:43 2026] FPS: 61 | Chunks: 146
+[Tue Jun 16 14:04:44 2026] FPS: 61 | Chunks: 146
+[Tue Jun 16 14:04:45 2026] FPS: 60 | Chunks: 146
+[Tue Jun 16 14:04:46 2026] FPS: 61 | Chunks: 163
+[Tue Jun 16 14:04:47 2026] FPS: 61 | Chunks: 163
+[Tue Jun 16 14:04:48 2026] FPS: 60 | Chunks: 163
+[Tue Jun 16 14:04:49 2026] FPS: 61 | Chunks: 175
+[Tue Jun 16 14:04:50 2026] FPS: 61 | Chunks: 176
+[Tue Jun 16 14:04:51 2026] FPS: 61 | Chunks: 176
+[Tue Jun 16 14:04:52 2026] FPS: 61 | Chunks: 173
+[Tue Jun 16 14:04:53 2026] FPS: 61 | Chunks: 176
+[Tue Jun 16 14:10:31 2026] ======== PROGRAM START ========
+[Tue Jun 16 14:10:31 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 14:10:31 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 14:10:31 2026] Switched to fullscreen mode
+[Tue Jun 16 14:10:31 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 14:10:31 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 14:10:31 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 14:10:32 2026] FPS: 57 | Chunks: 46
+[Tue Jun 16 14:10:33 2026] FPS: 61 | Chunks: 53
+[Tue Jun 16 14:10:34 2026] FPS: 61 | Chunks: 44
+[Tue Jun 16 14:10:35 2026] FPS: 60 | Chunks: 39
+[Tue Jun 16 14:10:36 2026] FPS: 61 | Chunks: 33
+[Tue Jun 16 14:10:37 2026] FPS: 61 | Chunks: 57
+[Tue Jun 16 14:10:38 2026] FPS: 61 | Chunks: 57
+[Tue Jun 16 14:15:54 2026] ======== PROGRAM START ========
+[Tue Jun 16 14:15:54 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 14:15:55 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 14:15:55 2026] Switched to fullscreen mode
+[Tue Jun 16 14:15:55 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 14:15:55 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 14:15:55 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 14:19:23 2026] ======== PROGRAM START ========
+[Tue Jun 16 14:19:23 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 14:19:23 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 14:19:23 2026] Switched to fullscreen mode
+[Tue Jun 16 14:19:23 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 14:19:23 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 14:19:23 2026] SUCCESS: Heightmap loaded (4320x2160)
+[Tue Jun 16 14:19:23 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 14:19:24 2026] FPS: 52 | Chunks: 48
+[Tue Jun 16 14:19:25 2026] FPS: 60 | Chunks: 43
+[Tue Jun 16 14:19:26 2026] FPS: 61 | Chunks: 40
+[Tue Jun 16 14:19:27 2026] FPS: 60 | Chunks: 55
+[Tue Jun 16 14:19:28 2026] FPS: 61 | Chunks: 46
+[Tue Jun 16 14:19:29 2026] FPS: 61 | Chunks: 55
+[Tue Jun 16 14:19:30 2026] FPS: 60 | Chunks: 54
+[Tue Jun 16 14:19:31 2026] FPS: 60 | Chunks: 54
+[Tue Jun 16 14:19:32 2026] FPS: 61 | Chunks: 64
+[Tue Jun 16 14:19:53 2026] ======== PROGRAM START ========
+[Tue Jun 16 14:19:54 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 14:19:54 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 14:19:54 2026] Switched to fullscreen mode
+[Tue Jun 16 14:19:54 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 14:19:54 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 14:19:54 2026] SUCCESS: Heightmap loaded (4320x2160)
+[Tue Jun 16 14:19:54 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 14:19:55 2026] FPS: 51 | Chunks: 57
+[Tue Jun 16 14:19:56 2026] FPS: 61 | Chunks: 62
+[Tue Jun 16 14:20:16 2026] ======== PROGRAM START ========
+[Tue Jun 16 14:20:16 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 14:20:16 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 14:20:16 2026] Switched to fullscreen mode
+[Tue Jun 16 14:20:16 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 14:20:16 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 14:20:16 2026] SUCCESS: Heightmap loaded (4320x2160)
+[Tue Jun 16 14:20:16 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 14:20:17 2026] FPS: 53 | Chunks: 35
+[Tue Jun 16 14:20:18 2026] FPS: 61 | Chunks: 63
+[Tue Jun 16 14:20:19 2026] FPS: 61 | Chunks: 87
+[Tue Jun 16 14:20:20 2026] FPS: 60 | Chunks: 53
+[Tue Jun 16 14:20:21 2026] FPS: 61 | Chunks: 49
+[Tue Jun 16 14:20:22 2026] FPS: 61 | Chunks: 35
+[Tue Jun 16 14:20:23 2026] FPS: 60 | Chunks: 45
+[Tue Jun 16 14:20:24 2026] FPS: 60 | Chunks: 36
+[Tue Jun 16 14:20:25 2026] FPS: 61 | Chunks: 47
+[Tue Jun 16 14:20:50 2026] ======== PROGRAM START ========
+[Tue Jun 16 14:20:50 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 14:20:50 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 14:20:50 2026] Switched to fullscreen mode
+[Tue Jun 16 14:20:50 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 14:20:50 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 14:20:50 2026] SUCCESS: Heightmap loaded (4320x2160)
+[Tue Jun 16 14:20:50 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 14:20:51 2026] FPS: 53 | Chunks: 55
+[Tue Jun 16 14:20:52 2026] FPS: 61 | Chunks: 53
+[Tue Jun 16 14:20:53 2026] FPS: 61 | Chunks: 55
+[Tue Jun 16 14:22:29 2026] ======== PROGRAM START ========
+[Tue Jun 16 14:22:29 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 14:22:29 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 14:22:29 2026] Switched to fullscreen mode
+[Tue Jun 16 14:22:29 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 14:22:29 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 14:22:29 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 14:22:30 2026] FPS: 52 | Chunks: 39
+[Tue Jun 16 14:22:31 2026] FPS: 60 | Chunks: 59
+[Tue Jun 16 14:22:32 2026] FPS: 61 | Chunks: 58
+[Tue Jun 16 14:22:33 2026] FPS: 61 | Chunks: 52
+[Tue Jun 16 14:22:34 2026] FPS: 60 | Chunks: 53
+[Tue Jun 16 14:22:35 2026] FPS: 61 | Chunks: 50
+[Tue Jun 16 14:22:36 2026] FPS: 60 | Chunks: 53
+[Tue Jun 16 14:22:37 2026] FPS: 61 | Chunks: 54
+[Tue Jun 16 14:22:38 2026] FPS: 60 | Chunks: 42
+[Tue Jun 16 14:22:39 2026] FPS: 61 | Chunks: 48
+[Tue Jun 16 14:22:40 2026] FPS: 61 | Chunks: 53
+[Tue Jun 16 14:22:41 2026] FPS: 61 | Chunks: 55
+[Tue Jun 16 14:22:42 2026] FPS: 61 | Chunks: 58
+[Tue Jun 16 14:24:32 2026] ======== PROGRAM START ========
+[Tue Jun 16 14:24:32 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 14:24:32 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 14:24:32 2026] Switched to fullscreen mode
+[Tue Jun 16 14:24:32 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 14:24:32 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 14:24:33 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 14:24:33 2026] FPS: 53 | Chunks: 56
+[Tue Jun 16 14:24:34 2026] FPS: 61 | Chunks: 66
+[Tue Jun 16 14:24:35 2026] FPS: 60 | Chunks: 67
+[Tue Jun 16 14:24:36 2026] FPS: 60 | Chunks: 59
+[Tue Jun 16 14:24:45 2026] ======== PROGRAM START ========
+[Tue Jun 16 14:24:45 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 14:24:45 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 14:24:45 2026] Switched to fullscreen mode
+[Tue Jun 16 14:24:45 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 14:24:45 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 14:24:45 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 14:24:46 2026] FPS: 53 | Chunks: 37
+[Tue Jun 16 14:24:47 2026] FPS: 61 | Chunks: 61
+[Tue Jun 16 14:24:48 2026] FPS: 60 | Chunks: 44
+[Tue Jun 16 14:24:58 2026] ======== PROGRAM START ========
+[Tue Jun 16 14:24:59 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 14:24:59 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 14:24:59 2026] Switched to fullscreen mode
+[Tue Jun 16 14:24:59 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 14:24:59 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 14:24:59 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 14:25:00 2026] FPS: 54 | Chunks: 37
+[Tue Jun 16 14:25:01 2026] FPS: 61 | Chunks: 67
+[Tue Jun 16 15:06:07 2026] ======== PROGRAM START ========
+[Tue Jun 16 15:06:07 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 15:06:08 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 15:06:08 2026] Switched to fullscreen mode
+[Tue Jun 16 15:06:08 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 15:06:08 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 15:06:08 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 15:06:08 2026] FPS: 51 | Chunks: 39
+[Tue Jun 16 15:06:09 2026] FPS: 61 | Chunks: 58
+[Tue Jun 16 15:06:10 2026] FPS: 60 | Chunks: 42
+[Tue Jun 16 15:06:12 2026] FPS: 61 | Chunks: 44
+[Tue Jun 16 15:06:13 2026] FPS: 61 | Chunks: 49
+[Tue Jun 16 15:06:14 2026] FPS: 61 | Chunks: 46
+[Tue Jun 16 15:06:15 2026] FPS: 60 | Chunks: 50
+[Tue Jun 16 15:06:16 2026] FPS: 61 | Chunks: 59
+[Tue Jun 16 15:06:17 2026] FPS: 61 | Chunks: 45
+[Tue Jun 16 15:06:18 2026] FPS: 60 | Chunks: 68
+[Tue Jun 16 15:06:19 2026] FPS: 61 | Chunks: 59
+[Tue Jun 16 15:06:20 2026] FPS: 61 | Chunks: 39
+[Tue Jun 16 15:06:21 2026] FPS: 61 | Chunks: 47
+[Tue Jun 16 15:06:22 2026] FPS: 60 | Chunks: 37
+[Tue Jun 16 15:07:02 2026] ======== PROGRAM START ========
+[Tue Jun 16 15:07:02 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 15:07:02 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 15:07:02 2026] Switched to fullscreen mode
+[Tue Jun 16 15:07:02 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 15:07:02 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 15:07:02 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 15:07:03 2026] FPS: 51 | Chunks: 128
+[Tue Jun 16 15:07:04 2026] FPS: 61 | Chunks: 171
+[Tue Jun 16 15:07:05 2026] FPS: 61 | Chunks: 182
+[Tue Jun 16 15:07:06 2026] FPS: 60 | Chunks: 209
+[Tue Jun 16 15:07:07 2026] FPS: 60 | Chunks: 169
+[Tue Jun 16 15:07:08 2026] FPS: 61 | Chunks: 164
+[Tue Jun 16 15:07:09 2026] FPS: 61 | Chunks: 188
+[Tue Jun 16 15:07:10 2026] FPS: 61 | Chunks: 205
+[Tue Jun 16 15:07:11 2026] FPS: 60 | Chunks: 201
+[Tue Jun 16 15:07:12 2026] FPS: 61 | Chunks: 150
+[Tue Jun 16 15:07:13 2026] FPS: 60 | Chunks: 159
+[Tue Jun 16 15:07:14 2026] FPS: 61 | Chunks: 192
+[Tue Jun 16 15:07:15 2026] FPS: 57 | Chunks: 188
+[Tue Jun 16 15:07:16 2026] FPS: 60 | Chunks: 234
+[Tue Jun 16 15:08:52 2026] ======== PROGRAM START ========
+[Tue Jun 16 15:08:52 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 15:08:53 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 15:08:53 2026] Switched to fullscreen mode
+[Tue Jun 16 15:08:53 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 15:08:53 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 15:08:53 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 15:08:53 2026] FPS: 51 | Chunks: 0
+[Tue Jun 16 15:08:54 2026] FPS: 61 | Chunks: 0
+[Tue Jun 16 15:08:55 2026] FPS: 60 | Chunks: 190
+[Tue Jun 16 15:08:56 2026] FPS: 61 | Chunks: 214
+[Tue Jun 16 15:08:58 2026] FPS: 61 | Chunks: 0
+[Tue Jun 16 15:08:59 2026] FPS: 61 | Chunks: 0
+[Tue Jun 16 15:09:00 2026] FPS: 60 | Chunks: 119
+[Tue Jun 16 15:09:01 2026] FPS: 61 | Chunks: 148
+[Tue Jun 16 15:09:02 2026] FPS: 61 | Chunks: 176
+[Tue Jun 16 15:09:03 2026] FPS: 61 | Chunks: 95
+[Tue Jun 16 15:09:04 2026] FPS: 60 | Chunks: 60
+[Tue Jun 16 15:09:05 2026] FPS: 61 | Chunks: 116
+[Tue Jun 16 15:10:27 2026] ======== PROGRAM START ========
+[Tue Jun 16 15:10:27 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 15:10:27 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 15:10:27 2026] Switched to fullscreen mode
+[Tue Jun 16 15:10:27 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 15:10:27 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 15:10:27 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 15:10:28 2026] FPS: 54 | Chunks: 5037
+[Tue Jun 16 15:10:29 2026] FPS: 61 | Chunks: 2426
+[Tue Jun 16 15:10:30 2026] FPS: 61 | Chunks: 5366
+[Tue Jun 16 15:10:31 2026] FPS: 61 | Chunks: 5185
+[Tue Jun 16 15:10:32 2026] FPS: 61 | Chunks: 5221
+[Tue Jun 16 15:10:33 2026] FPS: 61 | Chunks: 5107
+[Tue Jun 16 15:10:45 2026] ======== PROGRAM START ========
+[Tue Jun 16 15:10:45 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 15:10:46 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 15:10:46 2026] Switched to fullscreen mode
+[Tue Jun 16 15:10:46 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 15:10:46 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 15:10:46 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 15:10:46 2026] FPS: 47 | Chunks: 0
+[Tue Jun 16 15:10:47 2026] FPS: 26 | Chunks: 2257
+[Tue Jun 16 15:10:48 2026] FPS: 21 | Chunks: 5203
+[Tue Jun 16 15:10:50 2026] FPS: 19 | Chunks: 4739
+[Tue Jun 16 15:10:51 2026] FPS: 26 | Chunks: 4426
+[Tue Jun 16 15:10:52 2026] FPS: 30 | Chunks: 91
+[Tue Jun 16 15:10:53 2026] FPS: 41 | Chunks: 573
+[Tue Jun 16 15:10:54 2026] FPS: 46 | Chunks: 0
+[Tue Jun 16 15:10:55 2026] FPS: 27 | Chunks: 0
+[Tue Jun 16 15:10:56 2026] FPS: 40 | Chunks: 0
+[Tue Jun 16 15:10:57 2026] FPS: 56 | Chunks: 5601
+[Tue Jun 16 15:10:58 2026] FPS: 57 | Chunks: 0
+[Tue Jun 16 15:10:59 2026] FPS: 25 | Chunks: 5393
+[Tue Jun 16 15:11:00 2026] FPS: 16 | Chunks: 3660
+[Tue Jun 16 15:11:01 2026] FPS: 16 | Chunks: 3396
+[Tue Jun 16 15:11:02 2026] FPS: 16 | Chunks: 3264
+[Tue Jun 16 15:11:03 2026] FPS: 16 | Chunks: 3247
+[Tue Jun 16 15:11:04 2026] FPS: 17 | Chunks: 2849
+[Tue Jun 16 15:11:05 2026] FPS: 14 | Chunks: 5240
+[Tue Jun 16 15:11:06 2026] FPS: 13 | Chunks: 5225
+[Tue Jun 16 15:11:07 2026] FPS: 16 | Chunks: 3792
+[Tue Jun 16 15:11:08 2026] FPS: 17 | Chunks: 2848
+[Tue Jun 16 15:11:09 2026] FPS: 17 | Chunks: 5031
+[Tue Jun 16 15:11:10 2026] FPS: 17 | Chunks: 2078
+[Tue Jun 16 15:11:11 2026] FPS: 21 | Chunks: 2054
+[Tue Jun 16 15:11:12 2026] FPS: 38 | Chunks: 0
+[Tue Jun 16 15:11:13 2026] FPS: 43 | Chunks: 4985
+[Tue Jun 16 15:11:14 2026] FPS: 49 | Chunks: 0
+[Tue Jun 16 15:11:15 2026] FPS: 37 | Chunks: 0
+[Tue Jun 16 15:11:16 2026] FPS: 36 | Chunks: 3531
+[Tue Jun 16 15:11:17 2026] FPS: 43 | Chunks: 583
+[Tue Jun 16 15:11:18 2026] FPS: 62 | Chunks: 583
+[Tue Jun 16 15:21:33 2026] ======== PROGRAM START ========
+[Tue Jun 16 15:21:33 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 15:21:34 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 15:21:34 2026] Switched to fullscreen mode
+[Tue Jun 16 15:21:34 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 15:21:34 2026] ERROR: Vertex shader compilation failed
+[Tue Jun 16 15:21:34 2026] ERROR: Shader program linking failed
+[Tue Jun 16 15:21:34 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 15:21:34 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 15:21:35 2026] FPS: 9 | Chunks: 1293
+[Tue Jun 16 15:24:33 2026] ======== PROGRAM START ========
+[Tue Jun 16 15:24:34 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 15:24:34 2026] SUCCESS: GLFW window created (800x600)
+[Tue Jun 16 15:24:34 2026] Switched to fullscreen mode
+[Tue Jun 16 15:24:34 2026] SUCCESS: GLAD initialized
+[Tue Jun 16 15:24:34 2026] SUCCESS: Texture loaded and mipmaps generated
+[Tue Jun 16 15:24:34 2026] SUCCESS: Cube geometry uploaded
+[Tue Jun 16 15:24:35 2026] FPS: 38 | Chunks: 2278
+[Tue Jun 16 15:24:36 2026] FPS: 14 | Chunks: 3784
+[Tue Jun 16 15:24:37 2026] FPS: 19 | Chunks: 3974
+[Tue Jun 16 15:24:38 2026] FPS: 20 | Chunks: 3262
+[Tue Jun 16 15:24:39 2026] FPS: 19 | Chunks: 3915
+[Tue Jun 16 15:24:40 2026] FPS: 20 | Chunks: 4018
+[Tue Jun 16 15:24:41 2026] FPS: 21 | Chunks: 4213
+[Tue Jun 16 15:24:42 2026] FPS: 22 | Chunks: 4187
+[Tue Jun 16 15:24:43 2026] FPS: 20 | Chunks: 3731
+[Tue Jun 16 15:24:44 2026] FPS: 16 | Chunks: 3393
+[Tue Jun 16 15:24:45 2026] FPS: 17 | Chunks: 3330
+[Tue Jun 16 15:24:46 2026] FPS: 17 | Chunks: 3739
+[Tue Jun 16 15:24:47 2026] FPS: 18 | Chunks: 3762
+[Tue Jun 16 15:24:48 2026] FPS: 18 | Chunks: 3365
+[Tue Jun 16 15:24:49 2026] FPS: 20 | Chunks: 3578
+[Tue Jun 16 15:24:50 2026] FPS: 19 | Chunks: 3444
+[Tue Jun 16 15:24:51 2026] FPS: 21 | Chunks: 3783
+[Tue Jun 16 15:24:52 2026] FPS: 20 | Chunks: 3849
+[Tue Jun 16 15:24:53 2026] FPS: 20 | Chunks: 3568
+[Tue Jun 16 15:24:54 2026] FPS: 20 | Chunks: 3749
+[Tue Jun 16 15:24:55 2026] FPS: 21 | Chunks: 3935
+[Tue Jun 16 15:24:56 2026] FPS: 21 | Chunks: 3481
+[Tue Jun 16 15:24:57 2026] FPS: 20 | Chunks: 3316
+[Tue Jun 16 15:24:58 2026] FPS: 20 | Chunks: 3409
+[Tue Jun 16 15:24:59 2026] FPS: 21 | Chunks: 3665
+[Tue Jun 16 15:25:00 2026] FPS: 20 | Chunks: 3305
+[Tue Jun 16 15:25:01 2026] FPS: 20 | Chunks: 3556
+[Tue Jun 16 15:25:02 2026] FPS: 19 | Chunks: 3656
+[Tue Jun 16 15:25:03 2026] FPS: 20 | Chunks: 3654
+[Tue Jun 16 15:25:04 2026] FPS: 19 | Chunks: 3776
+[Tue Jun 16 15:25:05 2026] FPS: 22 | Chunks: 3752
+[Tue Jun 16 15:25:06 2026] FPS: 22 | Chunks: 3757
+[Tue Jun 16 15:25:07 2026] FPS: 23 | Chunks: 4000
+[Tue Jun 16 15:25:08 2026] FPS: 24 | Chunks: 3911
+[Tue Jun 16 15:25:09 2026] FPS: 22 | Chunks: 4132
+[Tue Jun 16 15:25:10 2026] FPS: 22 | Chunks: 4012
+[Tue Jun 16 15:25:12 2026] FPS: 22 | Chunks: 3760
+[Tue Jun 16 15:25:13 2026] FPS: 22 | Chunks: 3649
+[Tue Jun 16 15:25:14 2026] FPS: 22 | Chunks: 3517
+[Tue Jun 16 15:25:15 2026] FPS: 21 | Chunks: 3620
+[Tue Jun 16 15:25:16 2026] FPS: 20 | Chunks: 3829
+[Tue Jun 16 15:25:17 2026] FPS: 22 | Chunks: 3614
+[Tue Jun 16 15:25:18 2026] FPS: 19 | Chunks: 3754
+[Tue Jun 16 15:25:19 2026] FPS: 21 | Chunks: 3760
+[Tue Jun 16 15:25:20 2026] FPS: 22 | Chunks: 3762
+[Tue Jun 16 15:25:21 2026] FPS: 20 | Chunks: 3535
+[Tue Jun 16 15:25:22 2026] FPS: 19 | Chunks: 3623
+[Tue Jun 16 15:25:23 2026] FPS: 18 | Chunks: 3229
+[Tue Jun 16 15:25:24 2026] FPS: 17 | Chunks: 3161
+[Tue Jun 16 15:25:25 2026] FPS: 17 | Chunks: 3368
+[Tue Jun 16 15:25:26 2026] FPS: 16 | Chunks: 3443
+[Tue Jun 16 15:25:27 2026] FPS: 16 | Chunks: 3585
+[Tue Jun 16 15:25:28 2026] FPS: 17 | Chunks: 3726
+[Tue Jun 16 15:25:29 2026] FPS: 17 | Chunks: 3759
+[Tue Jun 16 15:25:30 2026] FPS: 18 | Chunks: 3109
+[Tue Jun 16 15:25:31 2026] FPS: 19 | Chunks: 3235
+[Tue Jun 16 15:25:32 2026] FPS: 20 | Chunks: 3152
+[Tue Jun 16 15:25:33 2026] FPS: 19 | Chunks: 3778
+[Tue Jun 16 15:25:34 2026] FPS: 21 | Chunks: 3811
+[Tue Jun 16 15:51:31 2026] ======== PROGRAM START ========
+[Tue Jun 16 15:51:31 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 15:51:31 2026] SUCCESS: Window created (800x600)
+[Tue Jun 16 15:51:31 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 16 15:51:31 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 16 15:51:31 2026] ERROR: Failed to open shader files
+[Tue Jun 16 15:52:29 2026] ======== PROGRAM START ========
+[Tue Jun 16 15:52:29 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 15:52:29 2026] SUCCESS: Window created (800x600)
+[Tue Jun 16 15:52:29 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 16 15:52:29 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 16 15:52:29 2026] Texture loaded: 256x256
+[Tue Jun 16 15:52:29 2026] Biome map loaded: 4320x2160
+[Tue Jun 16 15:53:17 2026] ======== PROGRAM START ========
+[Tue Jun 16 15:53:17 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 15:53:17 2026] SUCCESS: Window created (800x600)
+[Tue Jun 16 15:53:17 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 16 15:53:17 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 16 15:53:17 2026] Texture loaded: 256x256
+[Tue Jun 16 15:53:17 2026] Biome map loaded: 4320x2160
+[Tue Jun 16 16:00:25 2026] ======== PROGRAM START ========
+[Tue Jun 16 16:00:25 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 16:00:25 2026] SUCCESS: Window created (800x600)
+[Tue Jun 16 16:00:25 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 16 16:00:25 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 16 16:00:25 2026] Texture loaded: 256x256
+[Tue Jun 16 16:00:25 2026] Biome map loaded: 4320x2160
+[Tue Jun 16 16:01:23 2026] ======== PROGRAM START ========
+[Tue Jun 16 16:01:23 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 16:01:23 2026] SUCCESS: Window created (800x600)
+[Tue Jun 16 16:01:23 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 16 16:01:23 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 16 16:01:23 2026] Texture loaded: 256x256
+[Tue Jun 16 16:01:23 2026] Biome map loaded: 4320x2160
+[Tue Jun 16 16:02:00 2026] ======== PROGRAM START ========
+[Tue Jun 16 16:02:00 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 16:02:00 2026] SUCCESS: Window created (800x600)
+[Tue Jun 16 16:02:00 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 16 16:02:00 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 16 16:02:00 2026] Texture loaded: 256x256
+[Tue Jun 16 16:02:00 2026] Biome map loaded: 4320x2160
+[Tue Jun 16 16:19:07 2026] ======== PROGRAM START ========
+[Tue Jun 16 16:19:07 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 16:19:07 2026] SUCCESS: Window created (800x600)
+[Tue Jun 16 16:19:07 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 16 16:19:07 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 16 16:19:07 2026] Texture loaded: 256x256
+[Tue Jun 16 16:19:07 2026] SUCCESS: Text renderer initialized
+[Tue Jun 16 16:19:07 2026] Biome map loaded: 4320x2160
+[Tue Jun 16 16:19:55 2026] ======== PROGRAM START ========
+[Tue Jun 16 16:19:55 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 16:19:55 2026] SUCCESS: Window created (800x600)
+[Tue Jun 16 16:19:55 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 16 16:19:55 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 16 16:19:55 2026] Texture loaded: 256x256
+[Tue Jun 16 16:19:55 2026] SUCCESS: Text renderer initialized
+[Tue Jun 16 16:19:55 2026] Biome map loaded: 4320x2160
+[Tue Jun 16 16:24:32 2026] ======== PROGRAM START ========
+[Tue Jun 16 16:24:32 2026] SUCCESS: GLFW initialized
+[Tue Jun 16 16:24:32 2026] SUCCESS: Window created (800x600)
+[Tue Jun 16 16:24:32 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 16 16:24:32 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 16 16:24:32 2026] Texture loaded: 256x256
+[Tue Jun 16 16:24:32 2026] SUCCESS: Text renderer initialized
+[Tue Jun 16 16:24:32 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 17:57:19 2026] ======== PROGRAM START ========
+[Mon Jun 22 17:57:19 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 17:57:19 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 17:57:19 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 17:57:19 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 17:57:19 2026] Texture loaded: 256x256
+[Mon Jun 22 17:57:19 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 17:57:19 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 17:58:31 2026] ======== PROGRAM START ========
+[Mon Jun 22 17:58:32 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 17:58:32 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 17:58:32 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 17:58:32 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 17:58:32 2026] Texture loaded: 256x256
+[Mon Jun 22 17:58:32 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 17:58:32 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 17:59:50 2026] ======== PROGRAM START ========
+[Mon Jun 22 17:59:50 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 17:59:50 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 17:59:50 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 17:59:50 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 17:59:50 2026] Texture loaded: 256x256
+[Mon Jun 22 17:59:50 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 17:59:50 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 18:01:56 2026] ======== PROGRAM START ========
+[Mon Jun 22 18:01:57 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 18:01:57 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 18:01:57 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 18:01:57 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 18:01:57 2026] Texture loaded: 256x256
+[Mon Jun 22 18:01:57 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 18:01:57 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 18:02:22 2026] ======== PROGRAM START ========
+[Mon Jun 22 18:02:22 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 18:02:22 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 18:02:22 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 18:02:22 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 18:02:22 2026] Texture loaded: 256x256
+[Mon Jun 22 18:02:22 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 18:02:22 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 19:13:38 2026] ======== PROGRAM START ========
+[Mon Jun 22 19:13:39 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 19:13:39 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 19:13:39 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 19:13:39 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 19:13:39 2026] Texture loaded: 256x256
+[Mon Jun 22 19:13:39 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 19:13:39 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 19:38:30 2026] ======== PROGRAM START ========
+[Mon Jun 22 19:38:31 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 19:38:31 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 19:38:31 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 19:38:31 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 19:38:31 2026] Texture loaded: 256x256
+[Mon Jun 22 19:38:31 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 19:38:31 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 20:19:32 2026] ======== PROGRAM START ========
+[Mon Jun 22 20:19:32 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 20:19:33 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 20:19:33 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 20:19:33 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 20:19:33 2026] Texture loaded: 256x256
+[Mon Jun 22 20:19:33 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 20:19:33 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 20:20:47 2026] ======== PROGRAM START ========
+[Mon Jun 22 20:20:47 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 20:20:47 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 20:20:47 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 20:20:47 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 20:20:47 2026] Texture loaded: 256x256
+[Mon Jun 22 20:20:47 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 20:20:48 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 20:21:22 2026] ======== PROGRAM START ========
+[Mon Jun 22 20:21:22 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 20:21:22 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 20:21:22 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 20:21:22 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 20:21:22 2026] Texture loaded: 256x256
+[Mon Jun 22 20:21:22 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 20:21:23 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 20:23:01 2026] ======== PROGRAM START ========
+[Mon Jun 22 20:23:01 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 20:23:01 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 20:23:01 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 20:23:01 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 20:23:01 2026] Texture loaded: 256x256
+[Mon Jun 22 20:23:01 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 20:23:01 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 20:24:24 2026] ======== PROGRAM START ========
+[Mon Jun 22 20:24:24 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 20:24:24 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 20:24:24 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 20:24:24 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 20:24:24 2026] Texture loaded: 256x256
+[Mon Jun 22 20:24:24 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 20:24:25 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 20:25:20 2026] ======== PROGRAM START ========
+[Mon Jun 22 20:25:20 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 20:25:20 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 20:25:20 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 20:25:20 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 20:25:20 2026] Texture loaded: 256x256
+[Mon Jun 22 20:25:20 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 20:25:20 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 20:25:36 2026] ======== PROGRAM START ========
+[Mon Jun 22 20:25:37 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 20:25:37 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 20:25:37 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 20:25:37 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 20:25:37 2026] Texture loaded: 256x256
+[Mon Jun 22 20:25:37 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 20:25:37 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 20:27:01 2026] ======== PROGRAM START ========
+[Mon Jun 22 20:27:01 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 20:27:01 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 20:27:01 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 20:27:01 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 20:27:01 2026] Texture loaded: 256x256
+[Mon Jun 22 20:27:01 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 20:27:01 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 20:27:02 2026] clicked
+[Mon Jun 22 20:27:02 2026] clicked
+[Mon Jun 22 20:27:03 2026] clicked
+[Mon Jun 22 20:28:36 2026] ======== PROGRAM START ========
+[Mon Jun 22 20:28:36 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 20:28:36 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 20:28:36 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 20:28:36 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 20:28:36 2026] Texture loaded: 256x256
+[Mon Jun 22 20:28:36 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 20:28:36 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 20:28:37 2026] clicked
+[Mon Jun 22 20:28:37 2026] clicked
+[Mon Jun 22 20:28:37 2026] clicked
+[Mon Jun 22 20:28:38 2026] clicked
+[Mon Jun 22 20:28:38 2026] clicked
+[Mon Jun 22 20:28:38 2026] clicked
+[Mon Jun 22 20:28:38 2026] clicked
+[Mon Jun 22 20:28:38 2026] clicked
+[Mon Jun 22 20:28:39 2026] clicked
+[Mon Jun 22 20:28:39 2026] clicked
+[Mon Jun 22 20:28:39 2026] clicked
+[Mon Jun 22 20:28:39 2026] clicked
+[Mon Jun 22 20:28:39 2026] clicked
+[Mon Jun 22 20:28:39 2026] clicked
+[Mon Jun 22 20:28:40 2026] clicked
+[Mon Jun 22 20:28:40 2026] clicked
+[Mon Jun 22 20:28:40 2026] clicked
+[Mon Jun 22 20:28:40 2026] clicked
+[Mon Jun 22 20:28:40 2026] clicked
+[Mon Jun 22 20:28:41 2026] clicked
+[Mon Jun 22 20:28:41 2026] clicked
+[Mon Jun 22 20:28:41 2026] clicked
+[Mon Jun 22 20:28:41 2026] clicked
+[Mon Jun 22 20:28:41 2026] clicked
+[Mon Jun 22 20:28:41 2026] clicked
+[Mon Jun 22 20:28:42 2026] clicked
+[Mon Jun 22 20:28:42 2026] clicked
+[Mon Jun 22 20:28:42 2026] clicked
+[Mon Jun 22 20:28:42 2026] clicked
+[Mon Jun 22 20:28:42 2026] clicked
+[Mon Jun 22 20:33:48 2026] ======== PROGRAM START ========
+[Mon Jun 22 20:33:48 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 20:33:48 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 20:33:48 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 20:33:48 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 20:33:48 2026] Texture loaded: 256x256
+[Mon Jun 22 20:33:48 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 20:33:49 2026] Biome map loaded: 4320x2160
+[Mon Jun 22 20:33:49 2026] clicked
+[Mon Jun 22 20:33:49 2026] tried breaking
+[Mon Jun 22 20:33:50 2026] clicked
+[Mon Jun 22 20:33:50 2026] tried breaking
+[Mon Jun 22 20:33:50 2026] clicked
+[Mon Jun 22 20:33:50 2026] tried breaking
+[Mon Jun 22 20:33:51 2026] clicked
+[Mon Jun 22 20:33:51 2026] tried breaking
+[Mon Jun 22 20:33:51 2026] clicked
+[Mon Jun 22 20:33:51 2026] tried breaking
+[Mon Jun 22 20:33:52 2026] clicked
+[Mon Jun 22 20:33:52 2026] tried breaking
+[Mon Jun 22 20:33:52 2026] clicked
+[Mon Jun 22 20:33:52 2026] tried breaking
+[Mon Jun 22 20:33:52 2026] clicked
+[Mon Jun 22 20:33:52 2026] tried breaking
+[Mon Jun 22 20:33:53 2026] clicked
+[Mon Jun 22 20:33:53 2026] clicked
+[Mon Jun 22 20:33:54 2026] clicked
+[Mon Jun 22 20:33:54 2026] tried breaking
+[Mon Jun 22 20:33:54 2026] clicked
+[Mon Jun 22 20:33:54 2026] tried breaking
+[Mon Jun 22 20:33:55 2026] clicked
+[Mon Jun 22 20:33:55 2026] tried breaking
+[Mon Jun 22 20:33:55 2026] clicked
+[Mon Jun 22 20:33:55 2026] tried breaking
+[Mon Jun 22 20:33:55 2026] clicked
+[Mon Jun 22 20:33:55 2026] tried placing
+[Mon Jun 22 20:33:56 2026] clicked
+[Mon Jun 22 20:33:56 2026] tried placing
+[Mon Jun 22 20:33:56 2026] clicked
+[Mon Jun 22 20:33:56 2026] tried placing
+[Mon Jun 22 20:33:57 2026] clicked
+[Mon Jun 22 20:33:57 2026] tried placing
+[Mon Jun 22 20:33:57 2026] clicked
+[Mon Jun 22 20:33:57 2026] tried placing
+[Mon Jun 22 20:33:57 2026] clicked
+[Mon Jun 22 20:33:57 2026] tried placing
+[Mon Jun 22 20:33:58 2026] clicked
+[Mon Jun 22 20:33:58 2026] tried placing
+[Mon Jun 22 20:34:01 2026] clicked
+[Mon Jun 22 20:34:01 2026] clicked
+[Mon Jun 22 20:34:04 2026] clicked
+[Mon Jun 22 20:34:04 2026] tried placing
+[Mon Jun 22 20:34:04 2026] clicked
+[Mon Jun 22 20:34:04 2026] tried placing
+[Mon Jun 22 20:34:05 2026] clicked
+[Mon Jun 22 20:34:05 2026] tried placing
+[Mon Jun 22 20:34:05 2026] clicked
+[Mon Jun 22 20:34:05 2026] tried placing
+[Mon Jun 22 20:34:05 2026] clicked
+[Mon Jun 22 20:34:05 2026] tried placing
+[Mon Jun 22 20:34:06 2026] clicked
+[Mon Jun 22 20:34:06 2026] tried placing
+[Mon Jun 22 20:34:07 2026] clicked
+[Mon Jun 22 20:34:07 2026] tried placing
+[Mon Jun 22 20:34:07 2026] clicked
+[Mon Jun 22 20:34:07 2026] tried placing
+[Mon Jun 22 20:34:08 2026] clicked
+[Mon Jun 22 20:34:08 2026] tried placing
+[Mon Jun 22 20:34:09 2026] clicked
+[Mon Jun 22 20:34:09 2026] tried placing
+[Mon Jun 22 20:34:09 2026] clicked
+[Mon Jun 22 20:34:09 2026] tried placing
+[Mon Jun 22 20:34:10 2026] clicked
+[Mon Jun 22 20:34:10 2026] tried placing
+[Mon Jun 22 20:34:10 2026] clicked
+[Mon Jun 22 20:34:10 2026] tried placing
+[Mon Jun 22 20:34:10 2026] clicked
+[Mon Jun 22 20:34:10 2026] tried placing
+[Mon Jun 22 20:34:13 2026] clicked
+[Mon Jun 22 20:34:13 2026] tried placing
+[Mon Jun 22 20:34:13 2026] clicked
+[Mon Jun 22 20:34:13 2026] tried placing
+[Mon Jun 22 20:34:13 2026] clicked
+[Mon Jun 22 20:34:13 2026] tried placing
+[Mon Jun 22 20:34:14 2026] clicked
+[Mon Jun 22 20:34:14 2026] tried placing
+[Mon Jun 22 20:34:14 2026] clicked
+[Mon Jun 22 20:34:14 2026] tried placing
+[Mon Jun 22 20:34:16 2026] clicked
+[Mon Jun 22 20:34:16 2026] tried placing
+[Mon Jun 22 20:34:16 2026] clicked
+[Mon Jun 22 20:34:16 2026] tried placing
+[Mon Jun 22 20:34:16 2026] clicked
+[Mon Jun 22 20:34:16 2026] tried placing
+[Mon Jun 22 20:34:16 2026] clicked
+[Mon Jun 22 20:34:16 2026] tried placing
+[Mon Jun 22 20:34:17 2026] clicked
+[Mon Jun 22 20:34:17 2026] tried placing
+[Mon Jun 22 20:34:17 2026] clicked
+[Mon Jun 22 20:34:18 2026] clicked
+[Mon Jun 22 20:34:18 2026] tried breaking
+[Mon Jun 22 20:34:18 2026] clicked
+[Mon Jun 22 20:34:18 2026] tried breaking
+[Mon Jun 22 20:34:19 2026] clicked
+[Mon Jun 22 20:34:19 2026] tried breaking
+[Mon Jun 22 20:34:20 2026] clicked
+[Mon Jun 22 20:34:20 2026] tried breaking
+[Mon Jun 22 20:34:20 2026] clicked
+[Mon Jun 22 20:34:20 2026] tried breaking
+[Mon Jun 22 20:34:20 2026] clicked
+[Mon Jun 22 20:34:21 2026] clicked
+[Mon Jun 22 20:34:21 2026] tried breaking
+[Mon Jun 22 20:34:22 2026] clicked
+[Mon Jun 22 20:34:22 2026] tried breaking
+[Mon Jun 22 20:34:22 2026] clicked
+[Mon Jun 22 20:34:22 2026] tried breaking
+[Mon Jun 22 20:34:22 2026] clicked
+[Mon Jun 22 20:34:22 2026] tried breaking
+[Mon Jun 22 20:34:22 2026] clicked
+[Mon Jun 22 20:34:22 2026] tried breaking
+[Mon Jun 22 20:34:23 2026] clicked
+[Mon Jun 22 20:34:23 2026] tried breaking
+[Mon Jun 22 20:34:23 2026] clicked
+[Mon Jun 22 20:34:23 2026] tried breaking
+[Mon Jun 22 20:34:23 2026] clicked
+[Mon Jun 22 20:34:23 2026] tried breaking
+[Mon Jun 22 20:34:23 2026] clicked
+[Mon Jun 22 20:34:23 2026] tried breaking
+[Mon Jun 22 20:34:23 2026] clicked
+[Mon Jun 22 20:34:23 2026] tried breaking
+[Mon Jun 22 20:34:24 2026] clicked
+[Mon Jun 22 20:34:24 2026] tried breaking
+[Mon Jun 22 20:39:44 2026] ======== PROGRAM START ========
+[Mon Jun 22 20:39:45 2026] SUCCESS: GLFW initialized
+[Mon Jun 22 20:39:45 2026] SUCCESS: Window created (800x600)
+[Mon Jun 22 20:39:45 2026] Switched to fullscreen: 1920x1200
+[Mon Jun 22 20:39:45 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Jun 22 20:39:45 2026] Texture loaded: 256x256
+[Mon Jun 22 20:39:45 2026] SUCCESS: Text renderer initialized
+[Mon Jun 22 20:39:45 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 00:00:56 2026] ======== PROGRAM START ========
+[Tue Jun 23 00:00:57 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 00:00:57 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 00:00:57 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 00:00:57 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 00:00:57 2026] Texture loaded: 256x256
+[Tue Jun 23 00:00:57 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 00:00:57 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 17:17:17 2026] ======== PROGRAM START ========
+[Tue Jun 23 17:17:17 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 17:17:17 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 17:17:17 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 17:17:17 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 17:17:17 2026] Texture loaded: 256x256
+[Tue Jun 23 17:17:17 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 17:17:17 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:12:38 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:12:38 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:12:38 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:12:38 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:12:38 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:12:38 2026] Texture loaded: 256x256
+[Tue Jun 23 19:12:38 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:12:38 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:13:47 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:13:47 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:13:47 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:13:47 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:13:47 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:13:47 2026] Texture loaded: 256x256
+[Tue Jun 23 19:13:47 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:13:47 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:14:18 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:14:18 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:14:18 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:14:18 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:14:18 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:14:18 2026] Texture loaded: 256x256
+[Tue Jun 23 19:14:18 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:14:18 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:17:52 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:17:52 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:17:52 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:17:52 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:17:52 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:17:52 2026] Texture loaded: 256x256
+[Tue Jun 23 19:17:52 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:17:52 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:18:19 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:18:19 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:18:19 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:18:19 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:18:19 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:18:19 2026] Texture loaded: 256x256
+[Tue Jun 23 19:18:19 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:18:19 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:21:52 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:21:52 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:21:52 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:21:52 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:21:52 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:21:52 2026] Texture loaded: 256x256
+[Tue Jun 23 19:21:52 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:21:52 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:22:13 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:22:13 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:22:13 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:22:13 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:22:13 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:22:13 2026] Texture loaded: 256x256
+[Tue Jun 23 19:22:13 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:22:13 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:23:22 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:23:22 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:23:23 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:23:23 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:23:23 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:23:23 2026] Texture loaded: 256x256
+[Tue Jun 23 19:23:23 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:23:23 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:24:05 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:24:05 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:24:05 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:24:05 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:24:05 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:24:06 2026] Texture loaded: 256x256
+[Tue Jun 23 19:24:06 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:24:06 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:24:39 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:24:39 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:24:39 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:24:39 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:24:39 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:24:39 2026] Texture loaded: 256x256
+[Tue Jun 23 19:24:39 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:24:39 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:25:15 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:25:15 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:25:15 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:25:15 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:25:15 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:25:15 2026] Texture loaded: 256x256
+[Tue Jun 23 19:25:15 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:25:15 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:26:38 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:26:38 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:26:38 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:26:38 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:26:38 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:26:38 2026] Texture loaded: 256x256
+[Tue Jun 23 19:26:38 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:26:38 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:28:09 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:28:09 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:28:10 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:28:10 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:28:10 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:28:10 2026] Texture loaded: 256x256
+[Tue Jun 23 19:28:10 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:28:10 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:28:19 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:28:19 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:28:19 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:28:19 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:28:19 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:28:19 2026] Texture loaded: 256x256
+[Tue Jun 23 19:28:19 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:28:19 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:29:27 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:29:27 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:29:27 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:29:27 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:29:27 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:29:27 2026] Texture loaded: 256x256
+[Tue Jun 23 19:29:27 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:29:27 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:47:55 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:47:55 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:47:55 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:47:55 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:47:55 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:47:55 2026] Texture loaded: 256x256
+[Tue Jun 23 19:47:55 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:47:55 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:49:43 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:49:43 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:49:44 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:49:44 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:49:44 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:49:44 2026] Texture loaded: 256x256
+[Tue Jun 23 19:49:44 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:49:44 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:50:42 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:50:42 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:50:42 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:50:42 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:50:42 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:50:42 2026] Texture loaded: 256x256
+[Tue Jun 23 19:50:42 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:50:42 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:51:09 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:51:09 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:51:09 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:51:09 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:51:09 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:51:09 2026] Texture loaded: 256x256
+[Tue Jun 23 19:51:09 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:51:09 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:51:35 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:51:35 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:51:35 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:51:35 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:51:35 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:51:35 2026] Texture loaded: 256x256
+[Tue Jun 23 19:51:35 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:51:35 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:53:21 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:53:21 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:53:21 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:53:21 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:53:21 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:53:21 2026] Texture loaded: 256x256
+[Tue Jun 23 19:53:21 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:53:21 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:56:13 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:56:14 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:56:14 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:56:14 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:56:14 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:56:14 2026] Texture loaded: 256x256
+[Tue Jun 23 19:56:14 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:56:14 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 19:57:41 2026] ======== PROGRAM START ========
+[Tue Jun 23 19:57:41 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 19:57:42 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 19:57:42 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 19:57:42 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 19:57:42 2026] Texture loaded: 256x256
+[Tue Jun 23 19:57:42 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 19:57:42 2026] Biome map loaded: 4320x2160
+[Tue Jun 23 20:01:21 2026] ======== PROGRAM START ========
+[Tue Jun 23 20:01:21 2026] SUCCESS: GLFW initialized
+[Tue Jun 23 20:01:21 2026] SUCCESS: Window created (800x600)
+[Tue Jun 23 20:01:21 2026] Switched to fullscreen: 1920x1200
+[Tue Jun 23 20:01:21 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Jun 23 20:01:21 2026] Texture loaded: 256x256
+[Tue Jun 23 20:01:21 2026] SUCCESS: Text renderer initialized
+[Tue Jun 23 20:01:21 2026] Biome map loaded: 4320x2160
+[Wed Jun 24 09:39:34 2026] ======== PROGRAM START ========
+[Wed Jun 24 09:39:34 2026] SUCCESS: GLFW initialized
+[Wed Jun 24 09:39:34 2026] SUCCESS: Window created (800x600)
+[Wed Jun 24 09:39:34 2026] Switched to fullscreen: 1920x1200
+[Wed Jun 24 09:39:34 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Jun 24 09:39:34 2026] Texture loaded: 256x256
+[Wed Jun 24 09:39:34 2026] SUCCESS: Text renderer initialized
+[Wed Jun 24 09:39:34 2026] Biome map loaded: 4320x2160
+[Wed Jun 24 23:42:05 2026] ======== PROGRAM START ========
+[Wed Jun 24 23:42:05 2026] SUCCESS: GLFW initialized
+[Wed Jun 24 23:42:05 2026] SUCCESS: Window created (800x600)
+[Wed Jun 24 23:42:05 2026] Switched to fullscreen: 1920x1200
+[Wed Jun 24 23:42:05 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Jun 24 23:42:06 2026] Texture loaded: 256x256
+[Wed Jun 24 23:42:06 2026] SUCCESS: Text renderer initialized
+[Wed Jun 24 23:42:06 2026] Biome map loaded: 4320x2160
+[Sun Jun 28 13:27:25 2026] ======== PROGRAM START ========
+[Sun Jun 28 13:27:25 2026] SUCCESS: GLFW initialized
+[Sun Jun 28 13:27:25 2026] SUCCESS: Window created (800x600)
+[Sun Jun 28 13:27:25 2026] Switched to fullscreen: 1920x1200
+[Sun Jun 28 13:27:25 2026] SUCCESS: OpenGL initialized with GLAD
+[Sun Jun 28 13:27:25 2026] Texture loaded: 256x256
+[Sun Jun 28 13:27:25 2026] SUCCESS: Text renderer initialized
+[Sun Jun 28 13:27:25 2026] Biome map loaded: 4320x2160
+[Fri Jul 17 22:41:49 2026] ======== PROGRAM START ========
+[Fri Jul 17 22:41:49 2026] SUCCESS: GLFW initialized
+[Fri Jul 17 22:41:49 2026] SUCCESS: Window created (800x600)
+[Fri Jul 17 22:41:49 2026] Switched to fullscreen: 1920x1200
+[Fri Jul 17 22:41:49 2026] SUCCESS: OpenGL initialized with GLAD
+[Fri Jul 17 22:41:49 2026] Texture loaded: 256x256
+[Fri Jul 17 22:41:49 2026] SUCCESS: Text renderer initialized
+[Fri Jul 17 22:41:50 2026] Biome map loaded: 4320x2160
+[Sat Jul 18 15:51:18 2026] ======== PROGRAM START ========
+[Sat Jul 18 15:51:19 2026] SUCCESS: GLFW initialized
+[Sat Jul 18 15:51:19 2026] SUCCESS: Window created (800x600)
+[Sat Jul 18 15:51:19 2026] Switched to fullscreen: 1920x1200
+[Sat Jul 18 15:51:19 2026] SUCCESS: OpenGL initialized with GLAD
+[Sat Jul 18 15:51:19 2026] Texture loaded: 256x256
+[Sat Jul 18 15:51:19 2026] SUCCESS: Text renderer initialized
+[Sat Jul 18 15:51:19 2026] Biome map loaded: 4320x2160
+[Sat Jul 18 16:00:53 2026] ======== PROGRAM START ========
+[Sat Jul 18 16:00:53 2026] SUCCESS: GLFW initialized
+[Sat Jul 18 16:00:53 2026] SUCCESS: Window created (800x600)
+[Sat Jul 18 16:00:53 2026] Switched to fullscreen: 1920x1200
+[Sat Jul 18 16:00:53 2026] SUCCESS: OpenGL initialized with GLAD
+[Sat Jul 18 16:00:53 2026] Texture loaded: 256x256
+[Sat Jul 18 16:00:53 2026] SUCCESS: Text renderer initialized
+[Sat Jul 18 16:00:53 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 11:53:01 2026] ======== PROGRAM START ========
+[Mon Aug 24 11:53:02 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 11:53:02 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 11:53:02 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 11:53:02 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 11:53:02 2026] Texture loaded: 256x256
+[Mon Aug 24 11:53:02 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 11:53:02 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 11:54:39 2026] ======== PROGRAM START ========
+[Mon Aug 24 11:54:40 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 11:54:40 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 11:54:40 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 11:54:40 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 11:54:40 2026] Texture loaded: 256x256
+[Mon Aug 24 11:54:40 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 11:54:40 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 11:55:22 2026] ======== PROGRAM START ========
+[Mon Aug 24 11:55:22 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 11:55:22 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 11:55:22 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 11:55:22 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 11:55:22 2026] Texture loaded: 256x256
+[Mon Aug 24 11:55:22 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 11:55:22 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 12:21:14 2026] ======== PROGRAM START ========
+[Mon Aug 24 12:21:14 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 12:21:14 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 12:21:14 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 12:21:14 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 12:21:14 2026] Texture loaded: 256x256
+[Mon Aug 24 12:21:14 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 12:21:14 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 12:21:14 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 12:21:42 2026] ======== PROGRAM START ========
+[Mon Aug 24 12:21:43 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 12:21:43 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 12:21:43 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 12:21:43 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 12:21:43 2026] Texture loaded: 256x256
+[Mon Aug 24 12:21:43 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 12:21:43 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 12:21:43 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 12:44:34 2026] ======== PROGRAM START ========
+[Mon Aug 24 12:44:34 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 12:44:34 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 12:44:34 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 12:44:34 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 12:44:34 2026] Texture loaded: 256x256
+[Mon Aug 24 12:44:34 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 12:44:34 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 12:44:34 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 12:46:43 2026] ======== PROGRAM START ========
+[Mon Aug 24 12:46:43 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 12:46:43 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 12:46:43 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 12:46:43 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 12:46:43 2026] Texture loaded: 256x256
+[Mon Aug 24 12:46:43 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 12:46:43 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 12:46:43 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 12:46:50 2026] ======== PROGRAM START ========
+[Mon Aug 24 12:46:50 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 12:46:50 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 12:46:50 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 12:46:50 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 12:46:50 2026] Texture loaded: 256x256
+[Mon Aug 24 12:46:50 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 12:46:50 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 12:46:50 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 12:51:50 2026] ======== PROGRAM START ========
+[Mon Aug 24 12:51:50 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 12:51:50 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 12:51:50 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 12:51:50 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 12:51:50 2026] Texture loaded: 256x256
+[Mon Aug 24 12:51:50 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 12:51:50 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 12:51:50 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 12:54:26 2026] ======== PROGRAM START ========
+[Mon Aug 24 12:54:26 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 12:54:26 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 12:54:26 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 12:54:26 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 12:54:26 2026] Texture loaded: 256x256
+[Mon Aug 24 12:54:26 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 12:54:26 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 12:54:26 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 13:08:07 2026] ======== PROGRAM START ========
+[Mon Aug 24 13:08:07 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 13:08:07 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 13:08:07 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 13:08:07 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 13:08:07 2026] Texture loaded: 256x256
+[Mon Aug 24 13:08:07 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 13:08:07 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 13:08:07 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 15:30:09 2026] ======== PROGRAM START ========
+[Mon Aug 24 15:30:09 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 15:30:09 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 15:30:09 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 15:30:09 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 15:30:09 2026] Texture loaded: 256x256
+[Mon Aug 24 15:30:09 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 15:30:09 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 15:30:09 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 15:30:49 2026] ======== PROGRAM START ========
+[Mon Aug 24 15:30:49 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 15:30:49 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 15:30:49 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 15:30:49 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 15:30:49 2026] Texture loaded: 256x256
+[Mon Aug 24 15:30:49 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 15:30:49 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 15:30:49 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 15:33:20 2026] ======== PROGRAM START ========
+[Mon Aug 24 15:33:20 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 15:33:20 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 15:33:20 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 15:33:20 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 15:33:20 2026] Texture loaded: 256x256
+[Mon Aug 24 15:33:20 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 15:33:20 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 15:33:20 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 15:45:57 2026] ======== PROGRAM START ========
+[Mon Aug 24 15:45:57 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 15:45:57 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 15:45:57 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 15:45:57 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 15:45:57 2026] Texture loaded: 256x256
+[Mon Aug 24 15:45:57 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 15:45:57 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 15:45:57 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 16:18:01 2026] ======== PROGRAM START ========
+[Mon Aug 24 16:18:01 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 16:18:02 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 16:18:02 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 16:18:02 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 16:18:02 2026] Texture loaded: 256x256
+[Mon Aug 24 16:18:02 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 16:18:02 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 16:18:02 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 16:18:02 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 16:18:40 2026] ======== PROGRAM START ========
+[Mon Aug 24 16:18:40 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 16:18:40 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 16:18:40 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 16:18:40 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 16:18:40 2026] Texture loaded: 256x256
+[Mon Aug 24 16:18:40 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 16:18:40 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 16:18:40 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 16:18:40 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 16:20:31 2026] ======== PROGRAM START ========
+[Mon Aug 24 16:20:31 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 16:20:31 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 16:20:31 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 16:20:31 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 16:20:31 2026] Texture loaded: 256x256
+[Mon Aug 24 16:20:31 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 16:20:31 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 16:20:31 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 16:20:31 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 16:25:23 2026] ======== PROGRAM START ========
+[Mon Aug 24 16:25:23 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 16:25:23 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 16:25:23 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 16:25:23 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 16:25:23 2026] Texture loaded: 256x256
+[Mon Aug 24 16:25:23 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 16:25:23 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 16:25:23 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 16:25:23 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 16:26:12 2026] ======== PROGRAM START ========
+[Mon Aug 24 16:26:12 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 16:26:12 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 16:26:12 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 16:26:12 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 16:26:12 2026] Texture loaded: 256x256
+[Mon Aug 24 16:26:12 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 16:26:12 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 16:26:12 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 16:26:12 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 16:30:15 2026] ======== PROGRAM START ========
+[Mon Aug 24 16:30:15 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 16:30:15 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 16:30:15 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 16:30:15 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 16:30:15 2026] Texture loaded: 256x256
+[Mon Aug 24 16:30:15 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 16:30:15 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 16:30:15 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 16:30:15 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 16:30:53 2026] ======== PROGRAM START ========
+[Mon Aug 24 16:30:53 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 16:30:53 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 16:30:53 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 16:30:53 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 16:30:53 2026] Texture loaded: 256x256
+[Mon Aug 24 16:30:53 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 16:30:53 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 16:30:53 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 16:30:53 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 16:31:54 2026] ======== PROGRAM START ========
+[Mon Aug 24 16:31:54 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 16:31:54 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 16:31:54 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 16:31:54 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 16:31:54 2026] Texture loaded: 256x256
+[Mon Aug 24 16:31:54 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 16:31:54 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 16:31:54 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 16:31:55 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 16:42:18 2026] ======== PROGRAM START ========
+[Mon Aug 24 16:42:18 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 16:42:18 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 16:42:18 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 16:42:18 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 16:42:18 2026] Texture loaded: 256x256
+[Mon Aug 24 16:42:18 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 16:42:18 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 16:42:18 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 16:42:18 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 16:42:31 2026] ======== PROGRAM START ========
+[Mon Aug 24 16:42:31 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 16:42:31 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 16:42:31 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 16:42:31 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 16:42:31 2026] Texture loaded: 256x256
+[Mon Aug 24 16:42:31 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 16:42:31 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 16:42:31 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 16:42:31 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 16:43:51 2026] ======== PROGRAM START ========
+[Mon Aug 24 16:43:52 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 16:43:52 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 16:43:52 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 16:43:52 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 16:43:52 2026] Texture loaded: 256x256
+[Mon Aug 24 16:43:52 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 16:43:52 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 16:43:52 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 16:43:52 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 16:44:22 2026] ======== PROGRAM START ========
+[Mon Aug 24 16:44:22 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 16:44:22 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 16:44:22 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 16:44:22 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 16:44:22 2026] Texture loaded: 256x256
+[Mon Aug 24 16:44:22 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 16:44:22 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 16:44:23 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 16:44:23 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 16:45:44 2026] ======== PROGRAM START ========
+[Mon Aug 24 16:45:44 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 16:45:44 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 16:45:44 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 16:45:44 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 16:45:44 2026] Texture loaded: 256x256
+[Mon Aug 24 16:45:44 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 16:45:44 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 16:45:44 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 16:45:44 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 18:24:32 2026] ======== PROGRAM START ========
+[Mon Aug 24 18:24:32 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 18:24:32 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 18:24:32 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 18:24:32 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 18:24:32 2026] Texture loaded: 256x256
+[Mon Aug 24 18:24:32 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 18:24:32 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 18:24:32 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 18:24:32 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 20:53:03 2026] ======== PROGRAM START ========
+[Mon Aug 24 20:53:03 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 20:53:03 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 20:53:03 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 20:53:03 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 20:53:03 2026] Texture loaded: 256x256
+[Mon Aug 24 20:53:03 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 20:53:03 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 20:53:03 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 20:53:03 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 20:53:53 2026] ======== PROGRAM START ========
+[Mon Aug 24 20:53:53 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 20:53:53 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 20:53:53 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 20:53:53 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 20:53:53 2026] Texture loaded: 256x256
+[Mon Aug 24 20:53:53 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 20:53:53 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 20:53:53 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 20:53:53 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 20:56:41 2026] ======== PROGRAM START ========
+[Mon Aug 24 20:56:41 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 20:56:41 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 20:56:41 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 20:56:41 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 20:56:41 2026] Texture loaded: 256x256
+[Mon Aug 24 20:56:41 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 20:56:41 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 20:56:41 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 20:56:41 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 20:57:09 2026] ======== PROGRAM START ========
+[Mon Aug 24 20:57:09 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 20:57:09 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 20:57:09 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 20:57:09 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 20:57:09 2026] Texture loaded: 256x256
+[Mon Aug 24 20:57:09 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 20:57:09 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 20:57:09 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 20:57:10 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 21:05:14 2026] ======== PROGRAM START ========
+[Mon Aug 24 21:05:14 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 21:05:14 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 21:05:14 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 21:05:14 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 21:05:14 2026] Texture loaded: 256x256
+[Mon Aug 24 21:05:14 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 21:05:14 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 21:05:14 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 21:05:14 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 21:06:58 2026] ======== PROGRAM START ========
+[Mon Aug 24 21:06:58 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 21:06:58 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 21:06:58 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 21:06:58 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 21:06:58 2026] Texture loaded: 256x256
+[Mon Aug 24 21:06:58 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 21:06:58 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 21:06:58 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 21:06:58 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 21:08:32 2026] ======== PROGRAM START ========
+[Mon Aug 24 21:08:32 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 21:08:32 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 21:08:32 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 21:08:32 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 21:08:32 2026] Texture loaded: 256x256
+[Mon Aug 24 21:08:32 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 21:08:32 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 21:08:32 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 21:08:32 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 21:11:59 2026] ======== PROGRAM START ========
+[Mon Aug 24 21:11:59 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 21:11:59 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 21:11:59 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 21:11:59 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 21:11:59 2026] Texture loaded: 256x256
+[Mon Aug 24 21:11:59 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 21:11:59 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 21:11:59 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 21:11:59 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 21:12:39 2026] ======== PROGRAM START ========
+[Mon Aug 24 21:12:39 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 21:12:39 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 21:12:39 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 21:12:39 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 21:12:39 2026] Texture loaded: 256x256
+[Mon Aug 24 21:12:39 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 21:12:39 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 21:12:39 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 21:12:39 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 21:13:19 2026] ======== PROGRAM START ========
+[Mon Aug 24 21:13:19 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 21:13:19 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 21:13:19 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 21:13:19 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 21:13:19 2026] Texture loaded: 256x256
+[Mon Aug 24 21:13:19 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 21:13:19 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 21:13:19 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 21:13:19 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 21:13:46 2026] ======== PROGRAM START ========
+[Mon Aug 24 21:13:46 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 21:13:46 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 21:13:46 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 21:13:46 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 21:13:46 2026] Texture loaded: 256x256
+[Mon Aug 24 21:13:46 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 21:13:46 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 21:13:46 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 21:13:46 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 21:19:04 2026] ======== PROGRAM START ========
+[Mon Aug 24 21:19:04 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 21:19:04 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 21:19:04 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 21:19:04 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 21:19:04 2026] Texture loaded: 256x256
+[Mon Aug 24 21:19:04 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 21:19:04 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 21:19:04 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 21:19:05 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 21:20:25 2026] ======== PROGRAM START ========
+[Mon Aug 24 21:20:25 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 21:20:25 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 21:20:25 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 21:20:25 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 21:20:25 2026] Texture loaded: 256x256
+[Mon Aug 24 21:20:25 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 21:20:25 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 21:20:25 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 21:20:25 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 21:27:31 2026] ======== PROGRAM START ========
+[Mon Aug 24 21:27:31 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 21:27:31 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 21:27:31 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 21:27:31 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 21:27:31 2026] Texture loaded: 256x256
+[Mon Aug 24 21:27:31 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 21:27:31 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 21:27:31 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 21:27:31 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 21:28:01 2026] ======== PROGRAM START ========
+[Mon Aug 24 21:28:01 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 21:28:01 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 21:28:01 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 21:28:01 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 21:28:01 2026] Texture loaded: 256x256
+[Mon Aug 24 21:28:01 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 21:28:01 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 21:28:01 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 21:28:01 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 21:28:26 2026] ======== PROGRAM START ========
+[Mon Aug 24 21:28:26 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 21:28:26 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 21:28:26 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 21:28:26 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 21:28:26 2026] Texture loaded: 256x256
+[Mon Aug 24 21:28:26 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 21:28:26 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 21:28:26 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 21:28:26 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 21:29:31 2026] ======== PROGRAM START ========
+[Mon Aug 24 21:29:31 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 21:29:31 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 21:29:31 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 21:29:31 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 21:29:31 2026] Texture loaded: 256x256
+[Mon Aug 24 21:29:31 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 21:29:31 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 21:29:31 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 21:29:31 2026] Biome map loaded: 4320x2160
+[Mon Aug 24 22:46:44 2026] ======== PROGRAM START ========
+[Mon Aug 24 22:46:44 2026] SUCCESS: GLFW initialized
+[Mon Aug 24 22:46:44 2026] SUCCESS: Window created (800x600)
+[Mon Aug 24 22:46:44 2026] Switched to fullscreen: 1920x1200
+[Mon Aug 24 22:46:44 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Aug 24 22:46:44 2026] Texture loaded: 256x256
+[Mon Aug 24 22:46:44 2026] SUCCESS: Text renderer initialized
+[Mon Aug 24 22:46:44 2026] SUCCESS: Ghost renderer initialized
+[Mon Aug 24 22:46:44 2026] SUCCESS: Water renderer initialized
+[Mon Aug 24 22:46:44 2026] Biome map loaded: 4320x2160
+[Tue Aug 25 11:44:58 2026] ======== PROGRAM START ========
+[Tue Aug 25 11:44:58 2026] SUCCESS: GLFW initialized
+[Tue Aug 25 11:44:58 2026] SUCCESS: Window created (800x600)
+[Tue Aug 25 11:44:58 2026] Switched to fullscreen: 1920x1200
+[Tue Aug 25 11:44:58 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Aug 25 11:44:58 2026] Texture loaded: 256x256
+[Tue Aug 25 11:44:58 2026] SUCCESS: Text renderer initialized
+[Tue Aug 25 11:44:58 2026] SUCCESS: Ghost renderer initialized
+[Tue Aug 25 11:44:58 2026] SUCCESS: Water renderer initialized
+[Tue Aug 25 11:44:58 2026] Biome map loaded: 4320x2160
+[Tue Aug 25 12:27:30 2026] ======== PROGRAM START ========
+[Tue Aug 25 12:27:30 2026] SUCCESS: GLFW initialized
+[Tue Aug 25 12:27:30 2026] SUCCESS: Window created (800x600)
+[Tue Aug 25 12:27:30 2026] Switched to fullscreen: 1920x1200
+[Tue Aug 25 12:27:30 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Aug 25 12:27:30 2026] Texture loaded: 256x256
+[Tue Aug 25 12:27:30 2026] SUCCESS: Text renderer initialized
+[Tue Aug 25 12:27:30 2026] SUCCESS: Ghost renderer initialized
+[Tue Aug 25 12:27:30 2026] SUCCESS: Room renderer initialized
+[Tue Aug 25 12:27:30 2026] SUCCESS: Water renderer initialized
+[Tue Aug 25 12:27:30 2026] Biome map loaded: 4320x2160
+[Tue Aug 25 12:27:59 2026] ======== PROGRAM START ========
+[Tue Aug 25 12:27:59 2026] SUCCESS: GLFW initialized
+[Tue Aug 25 12:27:59 2026] SUCCESS: Window created (800x600)
+[Tue Aug 25 12:27:59 2026] Switched to fullscreen: 1920x1200
+[Tue Aug 25 12:27:59 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Aug 25 12:27:59 2026] Texture loaded: 256x256
+[Tue Aug 25 12:27:59 2026] SUCCESS: Text renderer initialized
+[Tue Aug 25 12:27:59 2026] SUCCESS: Ghost renderer initialized
+[Tue Aug 25 12:27:59 2026] SUCCESS: Room renderer initialized
+[Tue Aug 25 12:27:59 2026] SUCCESS: Water renderer initialized
+[Tue Aug 25 12:28:00 2026] Biome map loaded: 4320x2160
+[Tue Aug 25 13:01:51 2026] ======== PROGRAM START ========
+[Tue Aug 25 13:01:51 2026] SUCCESS: GLFW initialized
+[Tue Aug 25 13:01:51 2026] SUCCESS: Window created (800x600)
+[Tue Aug 25 13:01:51 2026] Switched to fullscreen: 1920x1200
+[Tue Aug 25 13:01:51 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Aug 25 13:01:51 2026] Texture loaded: 256x256
+[Tue Aug 25 13:01:51 2026] SUCCESS: Text renderer initialized
+[Tue Aug 25 13:01:51 2026] SUCCESS: Ghost renderer initialized
+[Tue Aug 25 13:01:51 2026] SUCCESS: Room renderer initialized
+[Tue Aug 25 13:01:51 2026] SUCCESS: Water renderer initialized
+[Tue Aug 25 13:01:51 2026] Biome map loaded: 4320x2160
+[Tue Aug 25 13:03:12 2026] ======== PROGRAM START ========
+[Tue Aug 25 13:03:12 2026] SUCCESS: GLFW initialized
+[Tue Aug 25 13:03:13 2026] SUCCESS: Window created (800x600)
+[Tue Aug 25 13:03:13 2026] Switched to fullscreen: 1920x1200
+[Tue Aug 25 13:03:13 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Aug 25 13:03:13 2026] Texture loaded: 256x256
+[Tue Aug 25 13:03:13 2026] SUCCESS: Text renderer initialized
+[Tue Aug 25 13:03:13 2026] SUCCESS: Ghost renderer initialized
+[Tue Aug 25 13:03:13 2026] SUCCESS: Room renderer initialized
+[Tue Aug 25 13:03:13 2026] SUCCESS: Water renderer initialized
+[Tue Aug 25 13:03:13 2026] Biome map loaded: 4320x2160
+[Tue Aug 25 13:04:22 2026] ======== PROGRAM START ========
+[Tue Aug 25 13:04:22 2026] SUCCESS: GLFW initialized
+[Tue Aug 25 13:04:22 2026] SUCCESS: Window created (800x600)
+[Tue Aug 25 13:04:22 2026] Switched to fullscreen: 1920x1200
+[Tue Aug 25 13:04:22 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Aug 25 13:04:22 2026] Texture loaded: 256x256
+[Tue Aug 25 13:04:22 2026] SUCCESS: Text renderer initialized
+[Tue Aug 25 13:04:22 2026] SUCCESS: Ghost renderer initialized
+[Tue Aug 25 13:04:22 2026] SUCCESS: Room renderer initialized
+[Tue Aug 25 13:04:22 2026] SUCCESS: Water renderer initialized
+[Tue Aug 25 13:04:22 2026] Biome map loaded: 4320x2160
+[Tue Aug 25 13:08:00 2026] ======== PROGRAM START ========
+[Tue Aug 25 13:08:00 2026] SUCCESS: GLFW initialized
+[Tue Aug 25 13:08:00 2026] SUCCESS: Window created (800x600)
+[Tue Aug 25 13:08:00 2026] Switched to fullscreen: 1920x1200
+[Tue Aug 25 13:08:00 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Aug 25 13:08:00 2026] Texture loaded: 256x256
+[Tue Aug 25 13:08:00 2026] SUCCESS: Text renderer initialized
+[Tue Aug 25 13:08:00 2026] SUCCESS: Ghost renderer initialized
+[Tue Aug 25 13:08:00 2026] SUCCESS: Room renderer initialized
+[Tue Aug 25 13:08:00 2026] SUCCESS: Water renderer initialized
+[Tue Aug 25 13:08:00 2026] Biome map loaded: 4320x2160
+[Tue Aug 25 13:09:06 2026] ======== PROGRAM START ========
+[Tue Aug 25 13:09:06 2026] SUCCESS: GLFW initialized
+[Tue Aug 25 13:09:06 2026] SUCCESS: Window created (800x600)
+[Tue Aug 25 13:09:06 2026] Switched to fullscreen: 1920x1200
+[Tue Aug 25 13:09:06 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Aug 25 13:09:06 2026] Texture loaded: 256x256
+[Tue Aug 25 13:09:06 2026] SUCCESS: Text renderer initialized
+[Tue Aug 25 13:09:06 2026] SUCCESS: Ghost renderer initialized
+[Tue Aug 25 13:09:06 2026] SUCCESS: Room renderer initialized
+[Tue Aug 25 13:09:06 2026] SUCCESS: Water renderer initialized
+[Tue Aug 25 13:09:06 2026] Biome map loaded: 4320x2160
+[Tue Aug 25 13:51:08 2026] ======== PROGRAM START ========
+[Tue Aug 25 13:51:09 2026] SUCCESS: GLFW initialized
+[Tue Aug 25 13:51:09 2026] SUCCESS: Window created (800x600)
+[Tue Aug 25 13:51:09 2026] Switched to fullscreen: 1920x1200
+[Tue Aug 25 13:51:09 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Aug 25 13:51:09 2026] Texture loaded: 256x256
+[Tue Aug 25 13:51:09 2026] SUCCESS: Text renderer initialized
+[Tue Aug 25 13:51:09 2026] SUCCESS: Ghost renderer initialized
+[Tue Aug 25 13:51:09 2026] SUCCESS: Room renderer initialized
+[Tue Aug 25 13:51:09 2026] SUCCESS: Water renderer initialized
+[Tue Aug 25 13:51:09 2026] Biome map loaded: 4320x2160
+[Tue Aug 25 14:04:12 2026] ======== PROGRAM START ========
+[Tue Aug 25 14:04:12 2026] SUCCESS: GLFW initialized
+[Tue Aug 25 14:04:12 2026] SUCCESS: Window created (800x600)
+[Tue Aug 25 14:04:12 2026] Switched to fullscreen: 1920x1200
+[Tue Aug 25 14:04:12 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Aug 25 14:04:12 2026] Texture loaded: 256x256
+[Tue Aug 25 14:04:12 2026] SUCCESS: Text renderer initialized
+[Tue Aug 25 14:04:12 2026] SUCCESS: Ghost renderer initialized
+[Tue Aug 25 14:04:12 2026] SUCCESS: Room renderer initialized
+[Tue Aug 25 14:04:12 2026] SUCCESS: Water renderer initialized
+[Tue Aug 25 14:04:12 2026] Biome map loaded: 4320x2160
+[Tue Aug 25 14:15:41 2026] ======== PROGRAM START ========
+[Tue Aug 25 14:15:41 2026] SUCCESS: GLFW initialized
+[Tue Aug 25 14:15:41 2026] SUCCESS: Window created (800x600)
+[Tue Aug 25 14:15:41 2026] Switched to fullscreen: 1920x1200
+[Tue Aug 25 14:15:41 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Aug 25 14:15:41 2026] Texture loaded: 256x256
+[Tue Aug 25 14:15:41 2026] SUCCESS: Text renderer initialized
+[Tue Aug 25 14:15:41 2026] SUCCESS: Ghost renderer initialized
+[Tue Aug 25 14:15:41 2026] SUCCESS: Room renderer initialized
+[Tue Aug 25 14:15:41 2026] SUCCESS: Water renderer initialized
+[Tue Aug 25 14:15:41 2026] Biome map loaded: 4320x2160
+[Tue Aug 25 16:11:32 2026] ======== PROGRAM START ========
+[Tue Aug 25 16:11:33 2026] SUCCESS: GLFW initialized
+[Tue Aug 25 16:11:33 2026] SUCCESS: Window created (800x600)
+[Tue Aug 25 16:11:33 2026] Switched to fullscreen: 1920x1200
+[Tue Aug 25 16:11:33 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Aug 25 16:11:33 2026] Texture loaded: 256x256
+[Tue Aug 25 16:11:33 2026] SUCCESS: Text renderer initialized
+[Tue Aug 25 16:11:33 2026] SUCCESS: Ghost renderer initialized
+[Tue Aug 25 16:11:33 2026] SUCCESS: Room renderer initialized
+[Tue Aug 25 16:11:33 2026] SUCCESS: Water renderer initialized
+[Tue Aug 25 16:11:33 2026] Biome map loaded: 4320x2160
+[Tue Aug 25 17:23:50 2026] ======== PROGRAM START ========
+[Tue Aug 25 17:23:50 2026] SUCCESS: GLFW initialized
+[Tue Aug 25 17:23:50 2026] SUCCESS: Window created (800x600)
+[Tue Aug 25 17:23:50 2026] Switched to fullscreen: 1920x1200
+[Tue Aug 25 17:23:50 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Aug 25 17:23:50 2026] Texture loaded: 256x256
+[Tue Aug 25 17:23:50 2026] SUCCESS: Text renderer initialized
+[Tue Aug 25 17:23:50 2026] SUCCESS: Ghost renderer initialized
+[Tue Aug 25 17:23:50 2026] SUCCESS: Room renderer initialized
+[Tue Aug 25 17:23:50 2026] SUCCESS: Water renderer initialized
+[Tue Aug 25 17:23:50 2026] Biome map loaded: 4320x2160
+[Tue Aug 25 17:36:35 2026] ======== PROGRAM START ========
+[Tue Aug 25 17:36:35 2026] SUCCESS: GLFW initialized
+[Tue Aug 25 17:36:36 2026] SUCCESS: Window created (800x600)
+[Tue Aug 25 17:36:36 2026] Switched to fullscreen: 1920x1200
+[Tue Aug 25 17:36:36 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Aug 25 17:36:36 2026] Texture loaded: 256x256
+[Tue Aug 25 17:36:36 2026] SUCCESS: Text renderer initialized
+[Tue Aug 25 17:36:36 2026] SUCCESS: Ghost renderer initialized
+[Tue Aug 25 17:36:36 2026] SUCCESS: Room renderer initialized
+[Tue Aug 25 17:36:36 2026] SUCCESS: Water renderer initialized
+[Tue Aug 25 17:36:36 2026] Biome map loaded: 4320x2160
+[Tue Aug 25 18:44:14 2026] ======== PROGRAM START ========
+[Tue Aug 25 18:44:14 2026] SUCCESS: GLFW initialized
+[Tue Aug 25 18:44:14 2026] SUCCESS: Window created (800x600)
+[Tue Aug 25 18:44:14 2026] Switched to fullscreen: 1920x1200
+[Tue Aug 25 18:44:14 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Aug 25 18:44:14 2026] Texture loaded: 256x256
+[Tue Aug 25 18:44:14 2026] SUCCESS: Text renderer initialized
+[Tue Aug 25 18:44:14 2026] SUCCESS: Ghost renderer initialized
+[Tue Aug 25 18:44:14 2026] SUCCESS: Room renderer initialized
+[Tue Aug 25 18:44:14 2026] SUCCESS: Water renderer initialized
+[Tue Aug 25 18:44:14 2026] Biome map loaded: 4320x2160
+[Tue Aug 25 20:23:33 2026] ======== PROGRAM START ========
+[Tue Aug 25 20:23:33 2026] SUCCESS: GLFW initialized
+[Tue Aug 25 20:23:33 2026] SUCCESS: Window created (800x600)
+[Tue Aug 25 20:23:33 2026] Switched to fullscreen: 1920x1200
+[Tue Aug 25 20:23:33 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Aug 25 20:23:33 2026] Texture loaded: 256x256
+[Tue Aug 25 20:23:33 2026] Item texture loaded: 256x256
+[Tue Aug 25 20:23:33 2026] SUCCESS: Text renderer initialized
+[Tue Aug 25 20:23:33 2026] SUCCESS: UI renderer initialized
+[Tue Aug 25 20:23:33 2026] SUCCESS: Ghost renderer initialized
+[Tue Aug 25 20:23:33 2026] SUCCESS: Room renderer initialized
+[Tue Aug 25 20:23:33 2026] SUCCESS: Water renderer initialized
+[Tue Aug 25 20:23:33 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 10:23:36 2026] ======== PROGRAM START ========
+[Wed Aug 26 10:23:36 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 10:23:36 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 10:23:36 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 10:23:36 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 10:23:36 2026] Texture loaded: 256x256
+[Wed Aug 26 10:23:36 2026] Item texture loaded: 256x256
+[Wed Aug 26 10:23:36 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 10:23:36 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 10:23:36 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 10:23:36 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 10:23:36 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 10:23:36 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 12:31:54 2026] ======== PROGRAM START ========
+[Wed Aug 26 12:31:54 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 12:31:55 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 12:31:55 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 12:31:55 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 12:31:55 2026] Texture loaded: 256x256
+[Wed Aug 26 12:31:55 2026] Item texture loaded: 256x256
+[Wed Aug 26 12:31:55 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 12:31:55 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 12:31:55 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 12:31:55 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 12:31:55 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 12:31:55 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 13:15:11 2026] ======== PROGRAM START ========
+[Wed Aug 26 13:15:11 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 13:15:11 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 13:15:11 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 13:15:11 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 13:15:11 2026] Texture loaded: 256x256
+[Wed Aug 26 13:15:11 2026] Item texture loaded: 256x256
+[Wed Aug 26 13:15:11 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 13:15:11 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 13:15:11 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 13:15:11 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 13:15:11 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 13:15:11 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 13:17:56 2026] ======== PROGRAM START ========
+[Wed Aug 26 13:17:56 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 13:17:56 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 13:17:56 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 13:17:56 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 13:17:56 2026] Texture loaded: 256x256
+[Wed Aug 26 13:17:56 2026] Item texture loaded: 256x256
+[Wed Aug 26 13:17:56 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 13:17:56 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 13:17:56 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 13:17:56 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 13:17:56 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 13:17:56 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 13:25:33 2026] ======== PROGRAM START ========
+[Wed Aug 26 13:25:33 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 13:25:33 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 13:25:33 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 13:25:33 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 13:25:33 2026] Texture loaded: 256x256
+[Wed Aug 26 13:25:33 2026] Item texture loaded: 256x256
+[Wed Aug 26 13:25:33 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 13:25:33 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 13:25:33 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 13:25:33 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 13:25:33 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 13:25:33 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 13:28:03 2026] ======== PROGRAM START ========
+[Wed Aug 26 13:28:03 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 13:28:03 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 13:28:03 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 13:28:03 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 13:28:03 2026] Texture loaded: 256x256
+[Wed Aug 26 13:28:03 2026] Item texture loaded: 256x256
+[Wed Aug 26 13:28:03 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 13:28:03 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 13:28:03 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 13:28:03 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 13:28:03 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 13:28:03 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 13:34:10 2026] ======== PROGRAM START ========
+[Wed Aug 26 13:34:10 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 13:34:10 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 13:34:10 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 13:34:10 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 13:34:10 2026] Texture loaded: 256x256
+[Wed Aug 26 13:34:10 2026] Item texture loaded: 256x256
+[Wed Aug 26 13:34:10 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 13:34:10 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 13:34:10 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 13:34:10 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 13:34:10 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 13:34:11 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 13:34:54 2026] ======== PROGRAM START ========
+[Wed Aug 26 13:34:54 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 13:34:55 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 13:34:55 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 13:34:55 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 13:34:55 2026] Texture loaded: 256x256
+[Wed Aug 26 13:34:55 2026] Item texture loaded: 256x256
+[Wed Aug 26 13:34:55 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 13:34:55 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 13:34:55 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 13:34:55 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 13:34:55 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 13:34:55 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 13:36:09 2026] ======== PROGRAM START ========
+[Wed Aug 26 13:36:09 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 13:36:09 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 13:36:09 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 13:36:09 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 13:36:09 2026] Texture loaded: 256x256
+[Wed Aug 26 13:36:09 2026] Item texture loaded: 256x256
+[Wed Aug 26 13:36:09 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 13:36:09 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 13:36:09 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 13:36:09 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 13:36:09 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 13:36:09 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 13:54:15 2026] ======== PROGRAM START ========
+[Wed Aug 26 13:54:15 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 13:54:15 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 13:54:15 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 13:54:15 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 13:54:15 2026] Texture loaded: 256x256
+[Wed Aug 26 13:54:15 2026] Item texture loaded: 256x256
+[Wed Aug 26 13:54:15 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 13:54:15 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 13:54:15 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 13:54:15 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 13:54:15 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 13:54:15 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 15:25:22 2026] ======== PROGRAM START ========
+[Wed Aug 26 15:25:23 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 15:25:23 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 15:25:23 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 15:25:23 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 15:25:23 2026] Texture loaded: 256x256
+[Wed Aug 26 15:25:23 2026] Item texture loaded: 256x256
+[Wed Aug 26 15:25:23 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 15:25:23 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 15:25:23 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 15:25:23 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 15:25:23 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 15:25:23 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 15:28:09 2026] ======== PROGRAM START ========
+[Wed Aug 26 15:28:09 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 15:28:09 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 15:28:09 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 15:28:09 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 15:28:09 2026] Texture loaded: 256x256
+[Wed Aug 26 15:28:09 2026] Item texture loaded: 256x256
+[Wed Aug 26 15:28:09 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 15:28:09 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 15:28:09 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 15:28:09 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 15:28:09 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 15:28:09 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 15:28:50 2026] ======== PROGRAM START ========
+[Wed Aug 26 15:28:50 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 15:28:50 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 15:28:50 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 15:28:50 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 15:28:50 2026] Texture loaded: 256x256
+[Wed Aug 26 15:28:50 2026] Item texture loaded: 256x256
+[Wed Aug 26 15:28:50 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 15:28:50 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 15:28:50 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 15:28:50 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 15:28:50 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 15:28:50 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 15:45:59 2026] ======== PROGRAM START ========
+[Wed Aug 26 15:46:00 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 15:46:00 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 15:46:00 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 15:46:00 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 15:46:00 2026] Texture loaded: 256x256
+[Wed Aug 26 15:46:00 2026] Item texture loaded: 256x256
+[Wed Aug 26 15:46:00 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 15:46:00 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 15:46:00 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 15:46:00 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 15:46:00 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 15:46:00 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 16:25:44 2026] ======== PROGRAM START ========
+[Wed Aug 26 16:25:44 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 16:25:45 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 16:25:45 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 16:25:45 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 16:25:45 2026] Texture loaded: 256x256
+[Wed Aug 26 16:25:45 2026] Item texture loaded: 256x256
+[Wed Aug 26 16:25:45 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 16:25:45 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 16:25:45 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 16:25:45 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 16:25:45 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 16:25:45 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 16:50:41 2026] ======== PROGRAM START ========
+[Wed Aug 26 16:50:41 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 16:50:41 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 16:50:41 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 16:50:41 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 16:50:41 2026] Texture loaded: 256x256
+[Wed Aug 26 16:50:41 2026] Item texture loaded: 256x256
+[Wed Aug 26 16:50:41 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 16:50:41 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 16:50:41 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 16:50:41 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 16:50:41 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 16:50:41 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 16:52:50 2026] ======== PROGRAM START ========
+[Wed Aug 26 16:52:50 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 16:52:51 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 16:52:51 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 16:52:51 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 16:52:51 2026] Texture loaded: 256x256
+[Wed Aug 26 16:52:51 2026] Item texture loaded: 256x256
+[Wed Aug 26 16:52:51 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 16:52:51 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 16:52:51 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 16:52:51 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 16:52:51 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 16:52:51 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 17:10:44 2026] ======== PROGRAM START ========
+[Wed Aug 26 17:10:44 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 17:10:44 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 17:10:44 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 17:10:44 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 17:10:44 2026] Texture loaded: 256x256
+[Wed Aug 26 17:10:44 2026] Item texture loaded: 256x256
+[Wed Aug 26 17:10:44 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 17:10:44 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 17:10:44 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 17:10:44 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 17:10:44 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 17:10:44 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 17:12:39 2026] ======== PROGRAM START ========
+[Wed Aug 26 17:12:39 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 17:12:39 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 17:12:39 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 17:12:39 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 17:12:39 2026] Texture loaded: 256x256
+[Wed Aug 26 17:12:39 2026] Item texture loaded: 256x256
+[Wed Aug 26 17:12:39 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 17:12:39 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 17:12:39 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 17:12:39 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 17:12:39 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 17:12:39 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 17:13:00 2026] ======== PROGRAM START ========
+[Wed Aug 26 17:13:00 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 17:13:00 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 17:13:00 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 17:13:00 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 17:13:00 2026] Texture loaded: 256x256
+[Wed Aug 26 17:13:00 2026] Item texture loaded: 256x256
+[Wed Aug 26 17:13:00 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 17:13:00 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 17:13:00 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 17:13:00 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 17:13:00 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 17:13:00 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 17:51:24 2026] ======== PROGRAM START ========
+[Wed Aug 26 17:51:24 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 17:51:25 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 17:51:25 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 17:51:25 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 17:51:25 2026] Texture loaded: 256x256
+[Wed Aug 26 17:51:25 2026] Item texture loaded: 256x256
+[Wed Aug 26 17:51:25 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 17:51:25 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 17:51:25 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 17:51:25 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 17:51:25 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 17:51:25 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 18:08:22 2026] ======== PROGRAM START ========
+[Wed Aug 26 18:08:22 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 18:08:23 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 18:08:23 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 18:08:23 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 18:08:23 2026] Texture loaded: 256x256
+[Wed Aug 26 18:08:23 2026] Item texture loaded: 256x256
+[Wed Aug 26 18:08:23 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 18:08:23 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 18:08:23 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 18:08:23 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 18:08:23 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 18:08:23 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 19:22:35 2026] ======== PROGRAM START ========
+[Wed Aug 26 19:22:35 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Wed Aug 26 19:22:35 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 19:22:35 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 19:22:35 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 19:22:35 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 19:22:35 2026] Texture loaded: 256x256
+[Wed Aug 26 19:22:35 2026] Item texture loaded: 256x256
+[Wed Aug 26 19:22:35 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 19:22:35 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 19:22:35 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 19:22:35 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 19:22:35 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 19:22:35 2026] Biome map loaded: 4320x2160
+[Wed Aug 26 19:27:09 2026] ======== PROGRAM START ========
+[Wed Aug 26 19:27:09 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Wed Aug 26 19:27:10 2026] SUCCESS: GLFW initialized
+[Wed Aug 26 19:27:10 2026] SUCCESS: Window created (800x600)
+[Wed Aug 26 19:27:10 2026] Switched to fullscreen: 1920x1200
+[Wed Aug 26 19:27:10 2026] SUCCESS: OpenGL initialized with GLAD
+[Wed Aug 26 19:27:10 2026] Texture loaded: 256x256
+[Wed Aug 26 19:27:10 2026] Item texture loaded: 256x256
+[Wed Aug 26 19:27:10 2026] SUCCESS: Text renderer initialized
+[Wed Aug 26 19:27:10 2026] SUCCESS: UI renderer initialized
+[Wed Aug 26 19:27:10 2026] SUCCESS: Ghost renderer initialized
+[Wed Aug 26 19:27:10 2026] SUCCESS: Room renderer initialized
+[Wed Aug 26 19:27:10 2026] SUCCESS: Water renderer initialized
+[Wed Aug 26 19:27:10 2026] Biome map loaded: 4320x2160
+[Sun Sep  6 17:58:30 2026] ======== PROGRAM START ========
+[Sun Sep  6 17:58:30 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Sun Sep  6 17:58:30 2026] SUCCESS: GLFW initialized
+[Sun Sep  6 17:58:30 2026] SUCCESS: Window created (800x600)
+[Sun Sep  6 17:58:30 2026] Switched to fullscreen: 1920x1200
+[Sun Sep  6 17:58:30 2026] SUCCESS: OpenGL initialized with GLAD
+[Sun Sep  6 17:58:30 2026] Texture loaded: 256x256
+[Sun Sep  6 17:58:30 2026] Item texture loaded: 256x256
+[Sun Sep  6 17:58:30 2026] SUCCESS: Text renderer initialized
+[Sun Sep  6 17:58:30 2026] SUCCESS: UI renderer initialized
+[Sun Sep  6 17:58:30 2026] SUCCESS: Ghost renderer initialized
+[Sun Sep  6 17:58:30 2026] SUCCESS: Room renderer initialized
+[Sun Sep  6 17:58:30 2026] SUCCESS: Water renderer initialized
+[Sun Sep  6 17:58:31 2026] Biome map loaded: 4320x2160
+[Mon Sep 21 16:45:14 2026] ======== PROGRAM START ========
+[Mon Sep 21 16:45:14 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Mon Sep 21 16:45:14 2026] SUCCESS: GLFW initialized
+[Mon Sep 21 16:45:14 2026] SUCCESS: Window created (800x600)
+[Mon Sep 21 16:45:14 2026] Switched to fullscreen: 1920x1200
+[Mon Sep 21 16:45:14 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Sep 21 16:45:14 2026] Texture loaded: 256x256
+[Mon Sep 21 16:45:14 2026] Item texture loaded: 256x256
+[Mon Sep 21 16:45:14 2026] SUCCESS: Text renderer initialized
+[Mon Sep 21 16:45:14 2026] SUCCESS: UI renderer initialized
+[Mon Sep 21 16:45:14 2026] SUCCESS: Ghost renderer initialized
+[Mon Sep 21 16:45:14 2026] SUCCESS: Room renderer initialized
+[Mon Sep 21 16:45:14 2026] SUCCESS: Water renderer initialized
+[Mon Sep 21 16:45:14 2026] Biome map loaded: 4320x2160
+[Mon Sep 21 17:01:05 2026] ======== PROGRAM START ========
+[Mon Sep 21 17:01:05 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Mon Sep 21 17:01:05 2026] SUCCESS: GLFW initialized
+[Mon Sep 21 17:01:05 2026] SUCCESS: Window created (800x600)
+[Mon Sep 21 17:01:05 2026] Switched to fullscreen: 1920x1200
+[Mon Sep 21 17:01:05 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Sep 21 17:01:05 2026] Texture loaded: 256x256
+[Mon Sep 21 17:01:05 2026] Item texture loaded: 256x256
+[Mon Sep 21 17:01:05 2026] SUCCESS: Text renderer initialized
+[Mon Sep 21 17:01:05 2026] SUCCESS: UI renderer initialized
+[Mon Sep 21 17:01:05 2026] SUCCESS: Ghost renderer initialized
+[Mon Sep 21 17:01:05 2026] SUCCESS: Room renderer initialized
+[Mon Sep 21 17:01:05 2026] SUCCESS: Water renderer initialized
+[Mon Sep 21 17:01:05 2026] Biome map loaded: 4320x2160
+[Mon Sep 21 17:04:38 2026] ======== PROGRAM START ========
+[Mon Sep 21 17:04:38 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Mon Sep 21 17:04:38 2026] SUCCESS: GLFW initialized
+[Mon Sep 21 17:04:38 2026] SUCCESS: Window created (800x600)
+[Mon Sep 21 17:04:38 2026] Switched to fullscreen: 1920x1200
+[Mon Sep 21 17:04:38 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Sep 21 17:04:38 2026] Texture loaded: 256x256
+[Mon Sep 21 17:04:38 2026] Item texture loaded: 256x256
+[Mon Sep 21 17:04:38 2026] SUCCESS: Text renderer initialized
+[Mon Sep 21 17:04:38 2026] SUCCESS: UI renderer initialized
+[Mon Sep 21 17:04:38 2026] SUCCESS: Ghost renderer initialized
+[Mon Sep 21 17:04:38 2026] SUCCESS: Room renderer initialized
+[Mon Sep 21 17:04:38 2026] SUCCESS: Water renderer initialized
+[Mon Sep 21 17:04:38 2026] Biome map loaded: 4320x2160
+[Mon Sep 21 17:19:46 2026] ======== PROGRAM START ========
+[Mon Sep 21 17:19:46 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Mon Sep 21 17:19:46 2026] SUCCESS: GLFW initialized
+[Mon Sep 21 17:19:46 2026] SUCCESS: Window created (800x600)
+[Mon Sep 21 17:19:46 2026] Switched to fullscreen: 1920x1200
+[Mon Sep 21 17:19:46 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Sep 21 17:19:46 2026] Texture loaded: 256x256
+[Mon Sep 21 17:19:46 2026] Item texture loaded: 256x256
+[Mon Sep 21 17:19:46 2026] SUCCESS: Text renderer initialized
+[Mon Sep 21 17:19:46 2026] SUCCESS: UI renderer initialized
+[Mon Sep 21 17:19:46 2026] SUCCESS: Ghost renderer initialized
+[Mon Sep 21 17:19:46 2026] SUCCESS: Room renderer initialized
+[Mon Sep 21 17:19:46 2026] SUCCESS: Water renderer initialized
+[Mon Sep 21 17:19:46 2026] Biome map loaded: 4320x2160
+[Mon Sep 21 18:26:02 2026] ======== PROGRAM START ========
+[Mon Sep 21 18:26:02 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Mon Sep 21 18:26:02 2026] SUCCESS: GLFW initialized
+[Mon Sep 21 18:26:03 2026] SUCCESS: Window created (800x600)
+[Mon Sep 21 18:26:03 2026] Switched to fullscreen: 1920x1200
+[Mon Sep 21 18:26:03 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Sep 21 18:26:03 2026] Texture loaded: 256x256
+[Mon Sep 21 18:26:03 2026] Item texture loaded: 256x256
+[Mon Sep 21 18:26:03 2026] SUCCESS: Text renderer initialized
+[Mon Sep 21 18:26:03 2026] SUCCESS: UI renderer initialized
+[Mon Sep 21 18:26:03 2026] SUCCESS: Ghost renderer initialized
+[Mon Sep 21 18:26:03 2026] SUCCESS: Room renderer initialized
+[Mon Sep 21 18:26:03 2026] SUCCESS: Water renderer initialized
+[Mon Sep 21 18:26:03 2026] Biome map loaded: 4320x2160
+[Mon Sep 21 20:54:29 2026] ======== PROGRAM START ========
+[Mon Sep 21 20:54:29 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Mon Sep 21 20:54:29 2026] SUCCESS: GLFW initialized
+[Mon Sep 21 20:54:29 2026] SUCCESS: Window created (800x600)
+[Mon Sep 21 20:54:29 2026] Switched to fullscreen: 1920x1200
+[Mon Sep 21 20:54:29 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Sep 21 20:54:29 2026] Texture loaded: 256x256
+[Mon Sep 21 20:54:29 2026] Item texture loaded: 256x256
+[Mon Sep 21 20:54:29 2026] SUCCESS: Text renderer initialized
+[Mon Sep 21 20:54:29 2026] SUCCESS: UI renderer initialized
+[Mon Sep 21 20:54:29 2026] SUCCESS: Ghost renderer initialized
+[Mon Sep 21 20:54:29 2026] SUCCESS: Room renderer initialized
+[Mon Sep 21 20:54:29 2026] SUCCESS: Water renderer initialized
+[Mon Sep 21 20:54:29 2026] Biome map loaded: 4320x2160
+[Mon Sep 21 21:01:30 2026] ======== PROGRAM START ========
+[Mon Sep 21 21:01:30 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Mon Sep 21 21:01:30 2026] SUCCESS: GLFW initialized
+[Mon Sep 21 21:01:30 2026] SUCCESS: Window created (800x600)
+[Mon Sep 21 21:01:30 2026] Switched to fullscreen: 1920x1200
+[Mon Sep 21 21:01:30 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Sep 21 21:01:31 2026] Texture loaded: 256x256
+[Mon Sep 21 21:01:31 2026] Item texture loaded: 256x256
+[Mon Sep 21 21:01:31 2026] SUCCESS: Text renderer initialized
+[Mon Sep 21 21:01:31 2026] SUCCESS: UI renderer initialized
+[Mon Sep 21 21:01:31 2026] SUCCESS: Ghost renderer initialized
+[Mon Sep 21 21:01:31 2026] SUCCESS: Room renderer initialized
+[Mon Sep 21 21:01:31 2026] SUCCESS: Water renderer initialized
+[Mon Sep 21 21:01:31 2026] Biome map loaded: 4320x2160
+[Mon Sep 21 21:07:42 2026] ======== PROGRAM START ========
+[Mon Sep 21 21:07:42 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Mon Sep 21 21:07:42 2026] SUCCESS: GLFW initialized
+[Mon Sep 21 21:07:42 2026] SUCCESS: Window created (800x600)
+[Mon Sep 21 21:07:42 2026] Switched to fullscreen: 1920x1200
+[Mon Sep 21 21:07:42 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Sep 21 21:07:42 2026] Texture loaded: 256x256
+[Mon Sep 21 21:07:42 2026] Item texture loaded: 256x256
+[Mon Sep 21 21:07:42 2026] SUCCESS: Text renderer initialized
+[Mon Sep 21 21:07:42 2026] SUCCESS: UI renderer initialized
+[Mon Sep 21 21:07:42 2026] SUCCESS: Ghost renderer initialized
+[Mon Sep 21 21:07:42 2026] SUCCESS: Room renderer initialized
+[Mon Sep 21 21:07:42 2026] SUCCESS: Water renderer initialized
+[Mon Sep 21 21:07:42 2026] Biome map loaded: 4320x2160
+[Mon Sep 21 21:14:04 2026] ======== PROGRAM START ========
+[Mon Sep 21 21:14:04 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Mon Sep 21 21:14:04 2026] SUCCESS: GLFW initialized
+[Mon Sep 21 21:14:04 2026] SUCCESS: Window created (800x600)
+[Mon Sep 21 21:14:04 2026] Switched to fullscreen: 1920x1200
+[Mon Sep 21 21:14:04 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Sep 21 21:14:04 2026] Texture loaded: 256x256
+[Mon Sep 21 21:14:04 2026] Item texture loaded: 256x256
+[Mon Sep 21 21:14:04 2026] SUCCESS: Text renderer initialized
+[Mon Sep 21 21:14:04 2026] SUCCESS: UI renderer initialized
+[Mon Sep 21 21:14:04 2026] SUCCESS: Ghost renderer initialized
+[Mon Sep 21 21:14:04 2026] SUCCESS: Room renderer initialized
+[Mon Sep 21 21:14:04 2026] SUCCESS: Water renderer initialized
+[Mon Sep 21 21:14:04 2026] Biome map loaded: 4320x2160
+[Mon Sep 21 21:16:35 2026] ======== PROGRAM START ========
+[Mon Sep 21 21:16:35 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Mon Sep 21 21:16:35 2026] SUCCESS: GLFW initialized
+[Mon Sep 21 21:16:35 2026] SUCCESS: Window created (800x600)
+[Mon Sep 21 21:16:35 2026] Switched to fullscreen: 1920x1200
+[Mon Sep 21 21:16:35 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Sep 21 21:16:35 2026] Texture loaded: 256x256
+[Mon Sep 21 21:16:35 2026] Item texture loaded: 256x256
+[Mon Sep 21 21:16:35 2026] SUCCESS: Text renderer initialized
+[Mon Sep 21 21:16:35 2026] SUCCESS: UI renderer initialized
+[Mon Sep 21 21:16:35 2026] SUCCESS: Ghost renderer initialized
+[Mon Sep 21 21:16:35 2026] SUCCESS: Room renderer initialized
+[Mon Sep 21 21:16:35 2026] SUCCESS: Water renderer initialized
+[Mon Sep 21 21:16:35 2026] Biome map loaded: 4320x2160
+[Mon Sep 21 21:20:16 2026] ======== PROGRAM START ========
+[Mon Sep 21 21:20:16 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Mon Sep 21 21:20:16 2026] SUCCESS: GLFW initialized
+[Mon Sep 21 21:20:17 2026] SUCCESS: Window created (800x600)
+[Mon Sep 21 21:20:17 2026] Switched to fullscreen: 1920x1200
+[Mon Sep 21 21:20:17 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Sep 21 21:20:17 2026] Texture loaded: 256x256
+[Mon Sep 21 21:20:17 2026] Item texture loaded: 256x256
+[Mon Sep 21 21:20:17 2026] SUCCESS: Text renderer initialized
+[Mon Sep 21 21:20:17 2026] SUCCESS: UI renderer initialized
+[Mon Sep 21 21:20:17 2026] SUCCESS: Ghost renderer initialized
+[Mon Sep 21 21:20:17 2026] SUCCESS: Room renderer initialized
+[Mon Sep 21 21:20:17 2026] SUCCESS: Water renderer initialized
+[Mon Sep 21 21:20:17 2026] Biome map loaded: 4320x2160
+[Mon Sep 21 21:26:50 2026] ======== PROGRAM START ========
+[Mon Sep 21 21:26:50 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Mon Sep 21 21:26:50 2026] SUCCESS: GLFW initialized
+[Mon Sep 21 21:26:50 2026] SUCCESS: Window created (800x600)
+[Mon Sep 21 21:26:50 2026] Switched to fullscreen: 1920x1200
+[Mon Sep 21 21:26:50 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Sep 21 21:26:50 2026] Texture loaded: 256x256
+[Mon Sep 21 21:26:50 2026] Item texture loaded: 256x256
+[Mon Sep 21 21:26:50 2026] SUCCESS: Text renderer initialized
+[Mon Sep 21 21:26:50 2026] SUCCESS: UI renderer initialized
+[Mon Sep 21 21:26:50 2026] SUCCESS: Ghost renderer initialized
+[Mon Sep 21 21:26:50 2026] SUCCESS: Room renderer initialized
+[Mon Sep 21 21:26:50 2026] SUCCESS: Water renderer initialized
+[Mon Sep 21 21:26:50 2026] Biome map loaded: 4320x2160
+[Tue Sep 22 15:52:14 2026] ======== PROGRAM START ========
+[Tue Sep 22 15:52:14 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Tue Sep 22 15:52:14 2026] SUCCESS: GLFW initialized
+[Tue Sep 22 15:52:14 2026] SUCCESS: Window created (800x600)
+[Tue Sep 22 15:52:14 2026] Switched to fullscreen: 1920x1200
+[Tue Sep 22 15:52:14 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Sep 22 15:52:14 2026] Texture loaded: 256x256
+[Tue Sep 22 15:52:14 2026] Item texture loaded: 256x256
+[Tue Sep 22 15:52:14 2026] SUCCESS: Text renderer initialized
+[Tue Sep 22 15:52:14 2026] SUCCESS: UI renderer initialized
+[Tue Sep 22 15:52:14 2026] SUCCESS: Ghost renderer initialized
+[Tue Sep 22 15:52:14 2026] SUCCESS: Room renderer initialized
+[Tue Sep 22 15:52:14 2026] SUCCESS: Water renderer initialized
+[Tue Sep 22 15:52:15 2026] Biome map loaded: 4320x2160
+[Tue Sep 22 21:01:52 2026] ======== PROGRAM START ========
+[Tue Sep 22 21:01:52 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Tue Sep 22 21:01:52 2026] SUCCESS: GLFW initialized
+[Tue Sep 22 21:01:52 2026] SUCCESS: Window created (800x600)
+[Tue Sep 22 21:01:52 2026] Switched to fullscreen: 1920x1200
+[Tue Sep 22 21:01:52 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Sep 22 21:01:52 2026] Texture loaded: 256x256
+[Tue Sep 22 21:01:52 2026] Item texture loaded: 256x256
+[Tue Sep 22 21:01:52 2026] SUCCESS: Text renderer initialized
+[Tue Sep 22 21:01:52 2026] SUCCESS: UI renderer initialized
+[Tue Sep 22 21:01:52 2026] SUCCESS: Ghost renderer initialized
+[Tue Sep 22 21:01:52 2026] SUCCESS: Room renderer initialized
+[Tue Sep 22 21:01:52 2026] SUCCESS: Water renderer initialized
+[Tue Sep 22 21:01:52 2026] Biome map loaded: 4320x2160
+[Tue Sep 22 21:07:38 2026] ======== PROGRAM START ========
+[Tue Sep 22 21:07:38 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Tue Sep 22 21:07:38 2026] SUCCESS: GLFW initialized
+[Tue Sep 22 21:07:38 2026] SUCCESS: Window created (800x600)
+[Tue Sep 22 21:07:38 2026] Switched to fullscreen: 1920x1200
+[Tue Sep 22 21:07:38 2026] SUCCESS: OpenGL initialized with GLAD
+[Tue Sep 22 21:07:38 2026] Texture loaded: 256x256
+[Tue Sep 22 21:07:38 2026] Item texture loaded: 256x256
+[Tue Sep 22 21:07:38 2026] SUCCESS: Text renderer initialized
+[Tue Sep 22 21:07:38 2026] SUCCESS: UI renderer initialized
+[Tue Sep 22 21:07:38 2026] SUCCESS: Ghost renderer initialized
+[Tue Sep 22 21:07:38 2026] SUCCESS: Room renderer initialized
+[Tue Sep 22 21:07:38 2026] SUCCESS: Water renderer initialized
+[Tue Sep 22 21:07:38 2026] Biome map loaded: 4320x2160
+[Thu Sep 24 17:19:21 2026] ======== PROGRAM START ========
+[Thu Sep 24 17:19:21 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Thu Sep 24 17:19:21 2026] SUCCESS: GLFW initialized
+[Thu Sep 24 17:19:21 2026] SUCCESS: Window created (800x600)
+[Thu Sep 24 17:19:21 2026] Switched to fullscreen: 1920x1200
+[Thu Sep 24 17:19:21 2026] SUCCESS: OpenGL initialized with GLAD
+[Thu Sep 24 17:19:21 2026] Texture loaded: 256x256
+[Thu Sep 24 17:19:21 2026] Item texture loaded: 256x256
+[Thu Sep 24 17:19:21 2026] SUCCESS: Text renderer initialized
+[Thu Sep 24 17:19:21 2026] SUCCESS: UI renderer initialized
+[Thu Sep 24 17:19:21 2026] SUCCESS: Ghost renderer initialized
+[Thu Sep 24 17:19:21 2026] SUCCESS: Room renderer initialized
+[Thu Sep 24 17:19:21 2026] SUCCESS: Water renderer initialized
+[Thu Sep 24 17:19:22 2026] Biome map loaded: 4320x2160
+[Fri Sep 25 10:50:06 2026] ======== PROGRAM START ========
+[Fri Sep 25 10:50:06 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Fri Sep 25 10:50:06 2026] SUCCESS: GLFW initialized
+[Fri Sep 25 10:50:06 2026] SUCCESS: Window created (800x600)
+[Fri Sep 25 10:50:06 2026] Switched to fullscreen: 1920x1200
+[Fri Sep 25 10:50:06 2026] SUCCESS: OpenGL initialized with GLAD
+[Fri Sep 25 10:50:06 2026] Texture loaded: 256x256
+[Fri Sep 25 10:50:06 2026] Item texture loaded: 256x256
+[Fri Sep 25 10:50:06 2026] SUCCESS: Text renderer initialized
+[Fri Sep 25 10:50:06 2026] SUCCESS: UI renderer initialized
+[Fri Sep 25 10:50:06 2026] SUCCESS: Ghost renderer initialized
+[Fri Sep 25 10:50:06 2026] SUCCESS: Room renderer initialized
+[Fri Sep 25 10:50:06 2026] SUCCESS: Water renderer initialized
+[Fri Sep 25 10:50:07 2026] Biome map loaded: 4320x2160
+[Fri Sep 25 10:52:51 2026] ======== PROGRAM START ========
+[Fri Sep 25 10:52:51 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Fri Sep 25 10:52:51 2026] SUCCESS: GLFW initialized
+[Fri Sep 25 10:52:52 2026] SUCCESS: Window created (800x600)
+[Fri Sep 25 10:52:52 2026] Switched to fullscreen: 1920x1200
+[Fri Sep 25 10:52:52 2026] SUCCESS: OpenGL initialized with GLAD
+[Fri Sep 25 10:52:52 2026] Texture loaded: 256x256
+[Fri Sep 25 10:52:52 2026] Item texture loaded: 256x256
+[Fri Sep 25 10:52:52 2026] SUCCESS: Text renderer initialized
+[Fri Sep 25 10:52:52 2026] SUCCESS: UI renderer initialized
+[Fri Sep 25 10:52:52 2026] SUCCESS: Ghost renderer initialized
+[Fri Sep 25 10:52:52 2026] SUCCESS: Room renderer initialized
+[Fri Sep 25 10:52:52 2026] SUCCESS: Water renderer initialized
+[Fri Sep 25 10:52:52 2026] Biome map loaded: 4320x2160
+[Fri Sep 25 11:03:30 2026] ======== PROGRAM START ========
+[Fri Sep 25 11:03:30 2026] ERROR: Recipe table problems:
+recipe 'Magnetic sift' (Sifter): input face has no Input port
+recipe 'Magnetic sift' (Sifter): output face has no Output port
+recipe 'Magnetic sift' (Sifter): output face has no Output port
+recipe 'Sift gravel' (Sifter): input face has no Input port
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Fri Sep 25 11:03:30 2026] SUCCESS: GLFW initialized
+[Fri Sep 25 11:03:30 2026] SUCCESS: Window created (800x600)
+[Fri Sep 25 11:03:30 2026] Switched to fullscreen: 1920x1200
+[Fri Sep 25 11:03:30 2026] SUCCESS: OpenGL initialized with GLAD
+[Fri Sep 25 11:03:30 2026] Texture loaded: 256x256
+[Fri Sep 25 11:03:30 2026] Item texture loaded: 256x256
+[Fri Sep 25 11:03:30 2026] SUCCESS: Text renderer initialized
+[Fri Sep 25 11:03:30 2026] SUCCESS: UI renderer initialized
+[Fri Sep 25 11:03:30 2026] SUCCESS: Ghost renderer initialized
+[Fri Sep 25 11:03:30 2026] SUCCESS: Room renderer initialized
+[Fri Sep 25 11:03:30 2026] SUCCESS: Water renderer initialized
+[Fri Sep 25 11:03:30 2026] Biome map loaded: 4320x2160
+[Fri Sep 25 11:05:24 2026] ======== PROGRAM START ========
+[Fri Sep 25 11:05:24 2026] ERROR: Recipe table problems:
+recipe 'Magnetic sift' (Sifter): input face has no Input port
+recipe 'Magnetic sift' (Sifter): output face has no Output port
+recipe 'Magnetic sift' (Sifter): output face has no Output port
+recipe 'Sift gravel' (Sifter): input face has no Input port
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Fri Sep 25 11:05:24 2026] SUCCESS: GLFW initialized
+[Fri Sep 25 11:05:24 2026] SUCCESS: Window created (800x600)
+[Fri Sep 25 11:05:24 2026] Switched to fullscreen: 1920x1200
+[Fri Sep 25 11:05:24 2026] SUCCESS: OpenGL initialized with GLAD
+[Fri Sep 25 11:05:24 2026] Texture loaded: 256x256
+[Fri Sep 25 11:05:24 2026] Item texture loaded: 256x256
+[Fri Sep 25 11:05:24 2026] SUCCESS: Text renderer initialized
+[Fri Sep 25 11:05:24 2026] SUCCESS: UI renderer initialized
+[Fri Sep 25 11:05:24 2026] SUCCESS: Ghost renderer initialized
+[Fri Sep 25 11:05:24 2026] SUCCESS: Room renderer initialized
+[Fri Sep 25 11:05:24 2026] SUCCESS: Water renderer initialized
+[Fri Sep 25 11:05:25 2026] Biome map loaded: 4320x2160
+[Fri Sep 25 11:06:13 2026] ======== PROGRAM START ========
+[Fri Sep 25 11:06:13 2026] ERROR: Recipe table problems:
+recipe 'Magnetic sift' (Sifter): input face has no Input port
+recipe 'Magnetic sift' (Sifter): output face has no Output port
+recipe 'Magnetic sift' (Sifter): output face has no Output port
+recipe 'Sift gravel' (Sifter): input face has no Input port
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Fri Sep 25 11:06:13 2026] SUCCESS: GLFW initialized
+[Fri Sep 25 11:06:13 2026] SUCCESS: Window created (800x600)
+[Fri Sep 25 11:06:13 2026] Switched to fullscreen: 1920x1200
+[Fri Sep 25 11:06:13 2026] SUCCESS: OpenGL initialized with GLAD
+[Fri Sep 25 11:06:13 2026] Texture loaded: 256x256
+[Fri Sep 25 11:06:13 2026] Item texture loaded: 256x256
+[Fri Sep 25 11:06:13 2026] SUCCESS: Text renderer initialized
+[Fri Sep 25 11:06:13 2026] SUCCESS: UI renderer initialized
+[Fri Sep 25 11:06:13 2026] SUCCESS: Ghost renderer initialized
+[Fri Sep 25 11:06:13 2026] SUCCESS: Room renderer initialized
+[Fri Sep 25 11:06:13 2026] SUCCESS: Water renderer initialized
+[Fri Sep 25 11:06:13 2026] Biome map loaded: 4320x2160
+[Fri Sep 25 11:09:38 2026] ======== PROGRAM START ========
+[Fri Sep 25 11:09:38 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Fri Sep 25 11:09:38 2026] SUCCESS: GLFW initialized
+[Fri Sep 25 11:09:38 2026] SUCCESS: Window created (800x600)
+[Fri Sep 25 11:09:38 2026] Switched to fullscreen: 1920x1200
+[Fri Sep 25 11:09:38 2026] SUCCESS: OpenGL initialized with GLAD
+[Fri Sep 25 11:09:38 2026] Texture loaded: 256x256
+[Fri Sep 25 11:09:38 2026] Item texture loaded: 256x256
+[Fri Sep 25 11:09:38 2026] SUCCESS: Text renderer initialized
+[Fri Sep 25 11:09:38 2026] SUCCESS: UI renderer initialized
+[Fri Sep 25 11:09:38 2026] SUCCESS: Ghost renderer initialized
+[Fri Sep 25 11:09:38 2026] SUCCESS: Room renderer initialized
+[Fri Sep 25 11:09:38 2026] SUCCESS: Water renderer initialized
+[Fri Sep 25 11:09:38 2026] Biome map loaded: 4320x2160
+[Fri Sep 25 11:11:16 2026] ======== PROGRAM START ========
+[Fri Sep 25 11:11:16 2026] ERROR: Recipe table problems:
+recipe 'Sift gravel' (Sifter): output face has no Output port
+
+[Fri Sep 25 11:11:16 2026] SUCCESS: GLFW initialized
+[Fri Sep 25 11:11:16 2026] SUCCESS: Window created (800x600)
+[Fri Sep 25 11:11:16 2026] Switched to fullscreen: 1920x1200
+[Fri Sep 25 11:11:16 2026] SUCCESS: OpenGL initialized with GLAD
+[Fri Sep 25 11:11:16 2026] Texture loaded: 256x256
+[Fri Sep 25 11:11:16 2026] Item texture loaded: 256x256
+[Fri Sep 25 11:11:16 2026] SUCCESS: Text renderer initialized
+[Fri Sep 25 11:11:16 2026] SUCCESS: UI renderer initialized
+[Fri Sep 25 11:11:16 2026] SUCCESS: Ghost renderer initialized
+[Fri Sep 25 11:11:16 2026] SUCCESS: Room renderer initialized
+[Fri Sep 25 11:11:16 2026] SUCCESS: Water renderer initialized
+[Fri Sep 25 11:11:17 2026] Biome map loaded: 4320x2160
+[Fri Sep 25 11:16:41 2026] ======== PROGRAM START ========
+[Fri Sep 25 11:16:42 2026] SUCCESS: GLFW initialized
+[Fri Sep 25 11:16:42 2026] SUCCESS: Window created (800x600)
+[Fri Sep 25 11:16:42 2026] Switched to fullscreen: 1920x1200
+[Fri Sep 25 11:16:42 2026] SUCCESS: OpenGL initialized with GLAD
+[Fri Sep 25 11:16:42 2026] Texture loaded: 256x256
+[Fri Sep 25 11:16:42 2026] Item texture loaded: 256x256
+[Fri Sep 25 11:16:42 2026] SUCCESS: Text renderer initialized
+[Fri Sep 25 11:16:42 2026] SUCCESS: UI renderer initialized
+[Fri Sep 25 11:16:42 2026] SUCCESS: Ghost renderer initialized
+[Fri Sep 25 11:16:42 2026] SUCCESS: Room renderer initialized
+[Fri Sep 25 11:16:42 2026] SUCCESS: Water renderer initialized
+[Fri Sep 25 11:16:42 2026] Biome map loaded: 4320x2160
+[Fri Sep 25 11:17:54 2026] ======== PROGRAM START ========
+[Fri Sep 25 11:17:54 2026] SUCCESS: GLFW initialized
+[Fri Sep 25 11:17:54 2026] SUCCESS: Window created (800x600)
+[Fri Sep 25 11:17:54 2026] Switched to fullscreen: 1920x1200
+[Fri Sep 25 11:17:54 2026] SUCCESS: OpenGL initialized with GLAD
+[Fri Sep 25 11:17:54 2026] Texture loaded: 256x256
+[Fri Sep 25 11:17:54 2026] Item texture loaded: 256x256
+[Fri Sep 25 11:17:54 2026] SUCCESS: Text renderer initialized
+[Fri Sep 25 11:17:54 2026] SUCCESS: UI renderer initialized
+[Fri Sep 25 11:17:54 2026] SUCCESS: Ghost renderer initialized
+[Fri Sep 25 11:17:54 2026] SUCCESS: Room renderer initialized
+[Fri Sep 25 11:17:54 2026] SUCCESS: Water renderer initialized
+[Fri Sep 25 11:17:54 2026] Biome map loaded: 4320x2160
+[Fri Sep 25 11:23:33 2026] ======== PROGRAM START ========
+[Fri Sep 25 11:23:33 2026] SUCCESS: GLFW initialized
+[Fri Sep 25 11:23:33 2026] SUCCESS: Window created (800x600)
+[Fri Sep 25 11:23:33 2026] Switched to fullscreen: 1920x1200
+[Fri Sep 25 11:23:33 2026] SUCCESS: OpenGL initialized with GLAD
+[Fri Sep 25 11:23:33 2026] Texture loaded: 256x256
+[Fri Sep 25 11:23:33 2026] Item texture loaded: 256x256
+[Fri Sep 25 11:23:33 2026] SUCCESS: Text renderer initialized
+[Fri Sep 25 11:23:33 2026] SUCCESS: UI renderer initialized
+[Fri Sep 25 11:23:33 2026] SUCCESS: Ghost renderer initialized
+[Fri Sep 25 11:23:33 2026] SUCCESS: Room renderer initialized
+[Fri Sep 25 11:23:33 2026] SUCCESS: Water renderer initialized
+[Fri Sep 25 11:23:34 2026] Biome map loaded: 4320x2160
+[Mon Oct 19 12:05:37 2026] ======== PROGRAM START ========
+[Mon Oct 19 12:05:37 2026] SUCCESS: GLFW initialized
+[Mon Oct 19 12:05:37 2026] SUCCESS: Window created (800x600)
+[Mon Oct 19 12:05:37 2026] Switched to fullscreen: 1920x1200
+[Mon Oct 19 12:05:37 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Oct 19 12:05:37 2026] Texture loaded: 256x256
+[Mon Oct 19 12:05:37 2026] Item texture loaded: 256x256
+[Mon Oct 19 12:05:37 2026] SUCCESS: Text renderer initialized
+[Mon Oct 19 12:05:37 2026] SUCCESS: UI renderer initialized
+[Mon Oct 19 12:05:37 2026] SUCCESS: Ghost renderer initialized
+[Mon Oct 19 12:05:37 2026] SUCCESS: Room renderer initialized
+[Mon Oct 19 12:05:37 2026] SUCCESS: Water renderer initialized
+[Mon Oct 19 12:05:37 2026] Biome map loaded: 4320x2160
+[Mon Oct 19 15:01:08 2026] ======== PROGRAM START ========
+[Mon Oct 19 15:01:08 2026] SUCCESS: GLFW initialized
+[Mon Oct 19 15:01:08 2026] SUCCESS: Window created (800x600)
+[Mon Oct 19 15:01:08 2026] Switched to fullscreen: 1920x1200
+[Mon Oct 19 15:01:08 2026] SUCCESS: OpenGL initialized with GLAD
+[Mon Oct 19 15:01:08 2026] Texture loaded: 256x256
+[Mon Oct 19 15:01:08 2026] Item texture loaded: 256x256
+[Mon Oct 19 15:01:08 2026] SUCCESS: Text renderer initialized
+[Mon Oct 19 15:01:08 2026] SUCCESS: UI renderer initialized
+[Mon Oct 19 15:01:08 2026] SUCCESS: Ghost renderer initialized
+[Mon Oct 19 15:01:08 2026] SUCCESS: Room renderer initialized
+[Mon Oct 19 15:01:08 2026] SUCCESS: Water renderer initialized
+[Mon Oct 19 15:01:08 2026] Biome map loaded: 4320x2160
+[Sat Oct 31 16:30:04 2026] ======== PROGRAM START ========
+[Sat Oct 31 16:30:04 2026] SUCCESS: GLFW initialized
+[Sat Oct 31 16:30:04 2026] SUCCESS: Window created (800x600)
+[Sat Oct 31 16:30:04 2026] Switched to fullscreen: 1920x1200
+[Sat Oct 31 16:30:04 2026] SUCCESS: OpenGL initialized with GLAD
+[Sat Oct 31 16:30:04 2026] Texture loaded: 256x256
+[Sat Oct 31 16:30:04 2026] Item texture loaded: 256x256
+[Sat Oct 31 16:30:04 2026] SUCCESS: Text renderer initialized
+[Sat Oct 31 16:30:04 2026] SUCCESS: UI renderer initialized
+[Sat Oct 31 16:30:04 2026] SUCCESS: Ghost renderer initialized
+[Sat Oct 31 16:30:05 2026] SUCCESS: Room renderer initialized
+[Sat Oct 31 16:30:05 2026] SUCCESS: Water renderer initialized
+[Sat Oct 31 16:30:05 2026] Biome map loaded: 4320x2160

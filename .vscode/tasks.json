@@ -1,0 +1,35 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build (g++)",
+      "type": "shell",
+      "command": "/bin/bash",
+      "args": [
+        "-lc",
+        "g++ -std=c++17 main.cpp src/glad.c -o main $(pkg-config --cflags --libs glfw3) -lGL -I./include"
+      ],
+      "group": { "kind": "build", "isDefault": true },
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": ["$gcc"]
+    },
+    {
+      "label": "Run",
+      "type": "shell",
+      "command": "./main",
+      "group": "test",
+      "presentation": { "reveal": "always", "panel": "shared" }
+    },
+    {
+      "label": "Build and Run",
+      "type": "shell",
+      "command": "/bin/bash",
+      "args": [
+        "-lc",
+        "g++ -std=c++17 main.cpp src/glad.c -o main $(pkg-config --cflags --libs glfw3) -lGL -I./include && ./main"
+      ],
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}
